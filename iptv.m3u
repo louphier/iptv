@@ -109,7 +109,7 @@ http://192.168.1.1:4022/udp/239.45.3.214:5140
 http://192.168.1.1:4022/udp/239.45.3.145:5140
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="中央电视",CCTV2财经
-http://192.168.1.1:4022/udp/239.45.1.109:5140
+http://192.168.1.1:4022/udp/239.45.0.1:5140
 
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="中央电视",CCTV3综艺
 http://192.168.1.1:4022/udp/239.45.1.68:5140
@@ -150,17 +150,35 @@ http://192.168.1.1:4022/udp/239.45.3.8:5140
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="中央电视",CCTV11戏曲
 http://192.168.1.1:4022/udp/239.45.1.196:5140
 
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="中央电视",CCTV11戏曲
+http://ott.mobaibox.com/PLTV/3/224/3221227720/index.m3u8
+
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="中央电视",CCTV12社会与法
 http://192.168.1.1:4022/udp/239.45.3.10:5140
 
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="中央电视",CCTV13新闻
 http://192.168.1.1:4022/udp/239.45.1.198:5140
 
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="中央电视",CCTV13新闻HD
+http://ott.mobaibox.com/PLTV/3/224/3221228224/index.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="中央电视",CCTV13新闻HD
+http://ott.mobaibox.com/PLTV/3/224/3221225560/index.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="中央电视",CCTV13新闻HD
+http://ott.mobaibox.com/PLTV/3/224/3221228121/index.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="中央电视",CCTV13新闻HD
+http://ott.mobaibox.com/PLTV/3/224/3221227387/index.m3u8
+
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="中央电视",CCTV14少儿
 http://192.168.1.1:4022/udp/239.45.3.23:5140
 
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="中央电视",CCTV15音乐
 http://192.168.1.1:4022/udp/239.45.1.200:5140
+
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="中央电视",CCTV15音乐HD
+http://ott.mobaibox.com/PLTV/3/224/3221227723/index.m3u8
 
 #EXTINF:-1 tvg-id="22" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="中央电视",CCTV16HD
 http://192.168.1.1:4022/udp/239.45.0.11:5140
