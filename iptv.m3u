@@ -384,40 +384,40 @@ http://192.168.1.1:4022/udp/239.45.3.50:5140
 #EXTINF:-1 group-title="地方卫视",快乐垂钓HD
 http://192.168.1.1:4022/udp/239.45.3.12:5140
 
-#EXTINF:-1 group-title="空中课题",一年级
+#EXTINF:-1 group-title="空中课题",空中课堂一年级
 http://192.168.1.1:4022/udp/239.45.1.28:5140
 
-#EXTINF:-1 group-title="空中课题",二年级
+#EXTINF:-1 group-title="空中课题",空中课堂二年级
 http://192.168.1.1:4022/udp/239.45.1.29:5140
 
-#EXTINF:-1 group-title="空中课题",三年级
+#EXTINF:-1 group-title="空中课题",空中课堂三年级
 http://192.168.1.1:4022/udp/239.45.1.30:5140
 
-#EXTINF:-1 group-title="空中课题",四年级
+#EXTINF:-1 group-title="空中课题",空中课堂四年级
 http://192.168.1.1:4022/udp/239.45.1.31:5140
 
-#EXTINF:-1 group-title="空中课题",五年级
+#EXTINF:-1 group-title="空中课题",空中课堂五年级
 http://192.168.1.1:4022/udp/239.45.1.32:5140
 
-#EXTINF:-1 group-title="空中课题",六年级
+#EXTINF:-1 group-title="空中课题",空中课堂六年级
 http://192.168.1.1:4022/udp/239.45.1.33:5140
 
-#EXTINF:-1 group-title="空中课题",七年级
+#EXTINF:-1 group-title="空中课题",空中课堂七年级
 http://192.168.1.1:4022/udp/239.45.1.34:5140
 
-#EXTINF:-1 group-title="空中课题",八年级
+#EXTINF:-1 group-title="空中课题",空中课堂八年级
 http://192.168.1.1:4022/udp/239.45.1.35:5140
 
-#EXTINF:-1 group-title="空中课题",九年级
+#EXTINF:-1 group-title="空中课题",空中课堂九年级
 http://192.168.1.1:4022/udp/239.45.1.36:5140
 
-#EXTINF:-1 group-title="空中课题",高一年级
+#EXTINF:-1 group-title="空中课题",空中课堂高一年级
 http://192.168.1.1:4022/udp/239.45.1.37:5140
 
-#EXTINF:-1 group-title="空中课题",高二年级
+#EXTINF:-1 group-title="空中课题",空中课堂高二年级
 http://192.168.1.1:4022/udp/239.45.1.38:5140
 
-#EXTINF:-1 group-title="空中课题",高三年级
+#EXTINF:-1 group-title="空中课题",空中课堂高三年级
 http://192.168.1.1:4022/udp/239.45.1.39:5140
 
 #EXTINF:-1 tvg-id="238" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
@@ -438,10 +438,10 @@ http://ott.mobaibox.com/PLTV/3/224/3221228098/index.m3u8
 #EXTINF:-1 tvg-id="239" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯（备）
 http://ott.mobaibox.com/PLTV/3/224/3221226923/index.m3u8
 
-#EXTINF:-1 tvg-id="239" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
+#EXTINF:-1 tvg-id="240" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
 http://ott.mobaibox.com/PLTV/3/224/3221228060/index.m3u8
 
-#EXTINF:-1 tvg-id="239" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港（备）
+#EXTINF:-1 tvg-id="240" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港（备）
 http://ott.mobaibox.com/PLTV/3/224/3221226975/index.m3u8
 
 #EXTINF:-1 group-title="江苏移动IPV6",纯享4K
