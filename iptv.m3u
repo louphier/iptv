@@ -193,7 +193,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227720/index.m3u8
 http://192.168.1.1:15104/udp/239.45.3.10:5140
 
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="中央电视",CCTV13新闻
-http://192.168.1.1:15104/udp/239.45.1.198:5140
+http://192.168.1.1:15104/udp/239.45.1.21:5140
 
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="中央电视",CCTV13新闻HD
 http://ott.mobaibox.com/PLTV/3/224/3221228224/index.m3u8
