@@ -598,6 +598,22 @@ http://192.168.1.10/bestv.php?id=52
 http://192.168.1.10/bestv.php?id=38
 #EXTINF:-1 group-title="bestv轮播",谜案大世界
 http://192.168.1.10/bestv.php?id=84
+
+#EXTINF:-1 tvg-id="239" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="youtube",凤凰资讯
+http://192.168.1.10/ytb.php?id=pinhd
+
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="youtube",CGTN-HD
+http://192.168.1.10/ytb.php?id=cgtnhd
+
+#EXTINF:-1 tvg-id="6113" tvg-name="NHK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="youtube",NHK
+http://192.168.1.10/youtube.php?id=nhk
+
+#EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="youtube",france24
+http://192.168.1.10/youtube.php?id=fr24
+
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="youtube",CGTN
+http://192.168.1.10/youtube.php?id=cgtn
+
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="陕西移动ipv6",CHC动作电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
