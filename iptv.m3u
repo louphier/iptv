@@ -608,17 +608,38 @@ http://192.168.1.10/bestv.php?id=84
 #EXTINF:-1 tvg-id="239" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="youtube",凤凰资讯
 http://192.168.1.10/ytb.php?id=pinhd
 
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="youtube",CGTN
+http://192.168.1.10/youtube.php?id=cgtn
+
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="youtube",CGTN-HD
 http://192.168.1.10/ytb.php?id=cgtnhd
 
-#EXTINF:-1 tvg-id="6113" tvg-name="NHK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="youtube",NHK
-http://192.168.1.10/youtube.php?id=nhk
+#EXTINF:-1 group-title="youtube",中天新闻台
+http://192.168.1.10/youtube.php?id=cti
 
-#EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="youtube",france24
-http://192.168.1.10/youtube.php?id=fr24
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="youtube",东森新闻台
+http://192.168.1.10/youtube.php?id=ebc
 
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="youtube",CGTN
-http://192.168.1.10/youtube.php?id=cgtn
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="youtube",民视新闻台
+http://192.168.1.10/youtube.php?id=ftv
+
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="youtube",三立新闻台
+http://192.168.1.10/youtube.php?id=set
+
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="youtube",TVBS新闻台
+http://192.168.1.10/youtube.php?id=tvbs
+
+#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="youtube",东森财经新闻台
+http://192.168.1.10/youtube.php?id=ebcf
+
+#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="youtube",台视新闻台
+http://192.168.1.10/youtube.php?id=ttv
+
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube",寰宇新闻
+http://192.168.1.10/youtube.php?id=gntv
+
+#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="youtube",中视新闻台
+http://192.168.1.10/youtube.php?id=ctv
 
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="陕西移动ipv6",CHC动作电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
