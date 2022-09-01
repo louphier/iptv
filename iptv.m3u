@@ -260,7 +260,6 @@ http://192.168.1.1:15104/udp/239.45.1.121:5140
 
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="地方卫视",甘肃卫视
 http://192.168.1.1:15104/udp/239.45.0.15:5140
-
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="地方卫视",广西卫视
 http://192.168.1.1:15104/udp/239.45.0.5:5140
 
