@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://iptv.hkanime.com/png_logo/31.png" group-title="[RTHK] 香港電台",港台電視31
 https://cdn.hklive.tv/raw/31.ts
 #EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://iptv.hkanime.com/png_logo/31.png" group-title="[RTHK] 香港電台",港台電視31
@@ -32,4 +31,3 @@ https://cdn.hklive.tv/raw/85.ts
 https://cdn.hklive.tv/raw/99.ts
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://iptv.hkanime.com/png_logo/96.png" group-title="[Viu] 香港電視娛樂",ViuTV Six
 https://cdn.hklive.tv/raw/96.ts
-
