@@ -136,7 +136,13 @@ http://ott.mobaibox.com/PLTV/3/224/3221225604/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228114/index.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中央电视",CCTV5+
-http://ott.mobaibox.com/PLTV/3/224/3221227480/index.m3u8
+http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-5PLUS-HD-265-8M/G_CCTV-5PLUS-HD-265-8M.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中央电视",CCTV5+
+http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-5PLUS-MD/G_CCTV-5PLUS-MD.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中央电视",CCTV5+
+http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-5PLUS-HD-265-5M/G_CCTV-5PLUS-HD-265-5M.m3u8
 
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="中央电视",CCTV6电影
 http://192.168.1.1:15104/udp/239.45.1.70:5140
