@@ -133,7 +133,7 @@ http://192.168.1.1:15104/udp/239.45.1.69:5140
 http://192.168.1.10/migu.php?id=cctv5p
 
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中央电视",CCTV5+
-http://ott.mobaibox.com/PLTV/3/224/3221225604/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221227381/index.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中央电视",CCTV5+
 http://140.207.241.2:8080/live/program/live/cctv5phd/4000000/mnf.m3u8
