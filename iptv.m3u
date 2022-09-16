@@ -36,14 +36,11 @@ http://192.168.1.1:15104/udp/239.45.3.196:5140
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海地方台",欢笑剧场-4K
 http://192.168.1.1:15104/udp/239.45.1.4:5140
 
-#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海地方台",全纪实
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海地方台",乐游
 http://192.168.1.1:15104/udp/239.45.3.135:5140
 
 #EXTINF:-1  tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海地方台",生活时尚
 http://192.168.1.1:15104/udp/239.45.3.132:5140
-
-#EXTINF:-1 tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1P512164S50-L.jpg" group-title="上海地方台",乐游
-http://192.168.1.1:15104/udp/239.45.3.135:5140
 
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海地方台",哈哈炫动
 http://192.168.1.1:15104/udp/239.45.1.55:5140
