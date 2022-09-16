@@ -84,6 +84,12 @@ http://192.168.1.1:15104/udp/239.45.3.49:5140
 #EXTINF:-1 tvg-id="149" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海地方台",新视觉HD
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xsjhd/4000000/mnf.m3u8
 
+#EXTINF:-1 tvg-id="149" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海地方台",新视觉HD
+http://[2409:8c62:7110:10c::13]/live.rxip.sc96655.com/live/ycxsjH265_4000.m3u8
+
+#EXTINF:-1 tvg-id="150" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海地方台",劲爆体育HD
+http://[2409:8c62:7110:10c::13]/live.rxip.sc96655.com/live/lqhxjcHDH265_4000.m3u8
+
 #EXTINF:-1 tvg-id="150" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海地方台",劲爆体育HD
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
 
@@ -361,6 +367,25 @@ http://192.168.1.1:15104/udp/239.45.3.50:5140
 
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方卫视",中数快乐垂钓
 http://192.168.1.1:15104/udp/239.45.3.12:5140
+
+#EXTINF:-1,group-title="地方卫视",四川峨嵋电影
+http://[2409:8c62:7110:10c::13]/live.rxip.sc96655.com/live/emdygqH265_4000.m3u8
+
+#EXTINF:-1,group-title="地方卫视",4K超高清电影
+http://[2409:8c62:7110:10c::13]/live.rxip.sc96655.com/live/emdy4k_8000.m3u8
+
+#EXTINF:-1,group-title="地方卫视",CBN幸福剧场
+http://[2409:8c62:7110:10c::13]/live.rxip.sc96655.com/live/xfjc_4000.m3u8
+
+#EXTINF:-1,group-title="地方卫视",CBN每日影院
+http://[2409:8c62:7110:10c::13]/live.rxip.sc96655.com/live/mryy_4000.m3u8
+
+#EXTINF:-1,group-title="地方卫视",CBN幸福娱乐
+http://[2409:8c62:7110:10c::13]/live.rxip.sc96655.com/live/xfyl_4000.m3u8
+
+#EXTINF:-1,group-title="地方卫视",CBN风尚生活
+http://[2409:8c62:7110:10c::13]/live.rxip.sc96655.com/live/fssh_4000.m3u8
+
 
 #EXTINF:-1 group-title="空中课题",空中课堂一年级
 http://192.168.1.1:15104/udp/239.45.1.28:5140
