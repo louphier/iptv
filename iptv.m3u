@@ -147,8 +147,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中央电视",CCTV5+
 http://140.207.241.2:8080/live/program/live/cctv5phd/4000000/mnf.m3u8
 
-
-
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="中央电视",CCTV6电影
 http://192.168.1.1:15104/udp/239.45.1.70:5140
 
@@ -192,10 +190,10 @@ http://192.168.1.1:15104/udp/239.45.0.12:5140
 http://192.168.1.1:15104/udp/239.45.3.52:5140
 
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中央电视",CCTV-4K
-http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+http://192.168.1.10/cctv4k.php
 
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中央电视",CCTV-4K
-http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中央电视",CCTV-4K
 http://open.live-web.timetv.cn/live03/cctv4k.m3u8
