@@ -401,6 +401,9 @@ http://ott.mobaibox.com/PLTV/3/224/3221228060/index.m3u8
 #EXTINF:-1 tvg-id="240" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
 http://ott.mobaibox.com/PLTV/3/224/3221226975/index.m3u8
 
+#EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png" group-title="港澳台",TVB星河频道
+http://38.55.197.61/Xinhe/playlist.m3u8?tid=MCFC2010151520101515&ct=19249&tsum=a8fd0cb32ef01d8472773a604402a683
+
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台
 http://192.168.1.10/tvb.php?id=0
 
