@@ -27,11 +27,32 @@ http://192.168.1.1:15104/udp/239.45.1.127:5140
 #EXTINF:-1 group-title="上海地方台",上海教育台HD
 http://192.168.1.1:15104/udp/239.45.0.13:5140
 
+#EXTINF:-1 group-title="上海地方台",都市剧场
+http://192.168.1.1:15104/udp/239.45.3.136:5140
+
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海地方台",欢笑剧场
+http://192.168.1.1:15104/udp/239.45.3.196:5140
+
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海地方台",欢笑剧场-4K
+http://192.168.1.1:15104/udp/239.45.1.4:5140
+
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海地方台",全纪实
+http://192.168.1.1:15104/udp/239.45.3.135:5140
+
+#EXTINF:-1  tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海地方台",生活时尚
+http://192.168.1.1:15104/udp/239.45.3.132:5140
+
+#EXTINF:-1 tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1P512164S50-L.jpg" group-title="上海地方台",乐游
+http://192.168.1.1:15104/udp/239.45.3.135:5140
+
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海地方台",哈哈炫动
 http://192.168.1.1:15104/udp/239.45.1.55:5140
 
-#EXTINF:-1 group-title="上海地方台",乐游
-http://192.168.1.1:15104/udp/239.45.3.135:5140
+#EXTINF:-1 group-title="上海地方台",动漫秀场
+http://192.168.1.1:15104/udp/239.45.3.134:5140
+
+#EXTINF:-1 group-title="上海地方台",东方财经
+http://192.168.1.1:15104/udp/239.45.0.17:5140
 
 #EXTINF:-1 group-title="上海地方台",百事通超级体育
 http://192.168.1.1:15104/udp/239.45.3.139:5140
@@ -48,30 +69,11 @@ http://192.168.1.1:15104/udp/239.45.1.10:5140
 #EXTINF:-1 group-title="上海地方台",百事通4K儿童
 http://192.168.1.1:15104/udp/239.45.1.1:5140
 
-#EXTINF:-1 group-title="上海地方台",金色学堂HD
+#EXTINF:-1 group-title="上海地方台",金色学堂
 http://192.168.1.1:15104/udp/239.45.0.9:5140
 
-#EXTINF:-1 group-title="上海地方台",法治天地HD
+#EXTINF:-1 group-title="上海地方台",法治天地
 http://192.168.1.1:15104/udp/239.45.1.46:5140
-
-#EXTINF:-1 group-title="上海地方台",都市剧场HD
-http://192.168.1.1:15104/udp/239.45.3.136:5140
-
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海地方台",欢笑剧场
-http://192.168.1.1:15104/udp/239.45.3.196:5140
-
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海地方台",欢笑剧场-4K
-http://192.168.1.1:15104/udp/239.45.1.4:5140
-
-#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海地方台",全纪实
-http://192.168.1.1:15104/udp/239.45.3.135:5140
-
-#EXTINF:-1 group-title="上海地方台",动漫秀场HD
-http://192.168.1.1:15104/udp/239.45.3.134:5140
-
-
-#EXTINF:-1  tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海地方台",生活时尚
-http://192.168.1.1:15104/udp/239.45.3.132:5140
 
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海地方台",游戏风云
 http://192.168.1.1:15104/udp/239.45.3.131:5140
@@ -90,9 +92,6 @@ http://shbu.live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
 
 #EXTINF:-1 tvg-id="167" tvg-name="幸福彩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xingfucai.png" group-title="上海地方台",幸福彩HD
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xfchd/4000000/mnf.m3u8
-
-#EXTINF:-1 group-title="上海地方台",东方财经
-http://192.168.1.1:15104/udp/239.45.0.17:5140
 
 #EXTINF:-1 group-title="上海地方台",七彩戏剧
 http://192.168.1.1:15104/udp/239.45.0.16:5140
