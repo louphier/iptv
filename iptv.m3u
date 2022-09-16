@@ -30,6 +30,9 @@ http://192.168.1.1:15104/udp/239.45.0.13:5140
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海地方台",哈哈炫动
 http://192.168.1.1:15104/udp/239.45.1.55:5140
 
+#EXTINF:-1 group-title="上海地方台",乐游
+http://192.168.1.1:15104/udp/239.45.3.135:5140
+
 #EXTINF:-1 group-title="上海地方台",百事通超级体育
 http://192.168.1.1:15104/udp/239.45.3.139:5140
 
@@ -65,6 +68,7 @@ http://192.168.1.1:15104/udp/239.45.3.135:5140
 
 #EXTINF:-1 group-title="上海地方台",动漫秀场HD
 http://192.168.1.1:15104/udp/239.45.3.134:5140
+
 
 #EXTINF:-1  tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海地方台",生活时尚
 http://192.168.1.1:15104/udp/239.45.3.132:5140
