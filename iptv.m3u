@@ -368,22 +368,22 @@ http://192.168.1.1:15104/udp/239.45.3.50:5140
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方卫视",中数快乐垂钓
 http://192.168.1.1:15104/udp/239.45.3.12:5140
 
-#EXTINF:-1,group-title="地方卫视",四川峨嵋电影
+#EXTINF:-1 tvg-id="2060" tvg-name="峨嵋电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/emeidianying.png" group-title="地方卫视",四川峨嵋电影
 http://[2409:8c62:7110:10c::13]/live.rxip.sc96655.com/live/emdygqH265_4000.m3u8
 
-#EXTINF:-1,group-title="地方卫视",4K超高清电影
+#EXTINF:-1 group-title="地方卫视",4K超高清电影
 http://[2409:8c62:7110:10c::13]/live.rxip.sc96655.com/live/emdy4k_8000.m3u8
 
-#EXTINF:-1,group-title="地方卫视",CBN幸福剧场
+#EXTINF:-1 group-title="地方卫视",CBN幸福剧场
 http://[2409:8c62:7110:10c::13]/live.rxip.sc96655.com/live/xfjc_4000.m3u8
 
-#EXTINF:-1,group-title="地方卫视",CBN每日影院
+#EXTINF:-1 group-title="地方卫视",CBN每日影院
 http://[2409:8c62:7110:10c::13]/live.rxip.sc96655.com/live/mryy_4000.m3u8
 
-#EXTINF:-1,group-title="地方卫视",CBN幸福娱乐
+#EXTINF:-1 group-title="地方卫视",CBN幸福娱乐
 http://[2409:8c62:7110:10c::13]/live.rxip.sc96655.com/live/xfyl_4000.m3u8
 
-#EXTINF:-1,group-title="地方卫视",CBN风尚生活
+#EXTINF:-1 group-title="地方卫视",CBN风尚生活
 http://[2409:8c62:7110:10c::13]/live.rxip.sc96655.com/live/fssh_4000.m3u8
 
 
