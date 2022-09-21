@@ -321,8 +321,17 @@ http://192.168.1.1:15104/udp/239.45.3.12:5140
 #EXTINF:-1 tvg-id="2060" tvg-name="峨嵋电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/emeidianying.png" group-title="电影剧场",四川峨嵋电影
 http://[2409:8c62:7110:10c::13]/live.rxip.sc96655.com/live/emdygqH265_4000.m3u8
 
+#EXTINF:-1 tvg-id="2060" tvg-name="峨嵋电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/emeidianying.png" group-title="电影剧场",四川峨嵋电影
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/emdygqH265_4000.m3u8
+
 #EXTINF:-1 group-title="电影剧场",4K超高清电影
 http://[2409:8c62:7110:10c::13]/live.rxip.sc96655.com/live/emdy4k_8000.m3u8
+
+#EXTINF:-1 group-title="电影剧场",超级电影
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225623/2/index.m3u8
+
+#EXTINF:-1 group-title="电影剧场",4KUHD超高清
+http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 
 #EXTINF:-1 group-title="电影剧场",CBN幸福剧场
 http://[2409:8c62:7110:10c::13]/live.rxip.sc96655.com/live/xfjc_4000.m3u8
