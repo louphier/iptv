@@ -645,13 +645,10 @@ http://192.168.1.10/bestv.php?id=38
 http://192.168.1.10/bestv.php?id=84
 
 #EXTINF:-1 tvg-id="239" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="youtube",凤凰资讯
-http://192.168.1.10/ytb.php?id=pinhd
+http://192.168.1.10/ytb.php?id=pinhfr&q=301
 
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="youtube",CGTN
-http://192.168.1.10/youtube.php?id=cgtn
-
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="youtube",CGTN-HD
-http://192.168.1.10/ytb.php?id=cgtnhd
+http://192.168.1.10/youtube.php?id=cgtnhfr&q=301
 
 #EXTINF:-1 group-title="youtube",中天新闻台
 http://192.168.1.10/youtube.php?id=cti
@@ -680,6 +677,8 @@ http://192.168.1.10/youtube.php?id=gntv
 #EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="youtube",中视新闻台
 http://192.168.1.10/youtube.php?id=ctv
 
+#EXTINF:-1 group-title="youtube",France 24
+http://192.168.1.10/youtube.php?id=fr24
 
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="陕西移动ipv6",CCTV风云音乐
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
