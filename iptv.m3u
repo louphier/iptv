@@ -677,7 +677,7 @@ http://192.168.1.10/youtube.php?id=gntv
 #EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="youtube",中视新闻台
 http://192.168.1.10/youtube.php?id=ctv
 
-#EXTINF:-1 group-title="youtube",France 24
+#EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="youtube",France 24
 http://192.168.1.10/youtube.php?id=fr24
 
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="陕西移动ipv6",CCTV风云音乐
