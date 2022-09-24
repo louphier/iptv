@@ -442,10 +442,16 @@ http://ott.mobaibox.com/PLTV/3/224/3221226975/index.m3u8
 http://38.55.197.61/Xinhe/playlist.m3u8?tid=MCFC2010151520101515&ct=19249&tsum=a8fd0cb32ef01d8472773a604402a683
 
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台
-http://192.168.1.10/tvb.php?id=0
+http://192.168.1.10/tvbp.php?id=0&hq
 
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经资讯台
-http://192.168.1.10/tvb.php?id=2
+http://192.168.1.10/tvbp.php?id=2&hq
+
+#EXTINF:-1 group-title="港澳台",无线新闻事件直播1
+http://192.168.1.10/tvbp.php?id=4&hq
+
+#EXTINF:-1 group-title="港澳台",无线新闻事件直播2
+http://192.168.1.10/tvbp.php?id=6&hq
 
 #EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="港澳台",纬来体育台
 rtmp://59.124.75.150/sat/tv721
