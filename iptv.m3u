@@ -375,10 +375,10 @@ http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=dsyp
 #EXTINF:-1 tvg-id="6082" tvg-name="LSTime电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="电影剧集",龙祥时代
 http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=lxsd
 
-#EXTINF:-1 tvg-id="7127" tvg-name="龙华戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7.png" group-title="电影剧集",	龙华戏剧
+#EXTINF:-1 tvg-id="7127" tvg-name="龙华戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7.png" group-title="电影剧集",龙华戏剧
 http://pull-rtmp-l6.ixigua.com/live/01bd1adb516c338d29b8ad88ff48d918.flv
 
-#EXTINF:-1 tvg-id="7128" tvg-name="龙华电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1.png" group-title="电影剧集",	龙华电影
+#EXTINF:-1 tvg-id="7128" tvg-name="龙华电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1.png" group-title="电影剧集",龙华电影
 http://pull-rtmp-l6.ixigua.com/live/6d3d6aa26d222ca7286f1ea08339ee3c.flv
 
 #EXTINF:-1 tvg-id="7158" tvg-name="龙华日韩台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E6%97%A5%E9%9F%A9.png" group-title="电影剧集",龙华日韩台
