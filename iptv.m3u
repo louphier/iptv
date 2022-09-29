@@ -123,11 +123,14 @@ http://192.168.1.1:15104/udp/239.45.1.69:5140
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中央电视",CCTV5+-咪咕
 http://192.168.1.10/migu.php?id=cctv5p
 
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中央电视",CCTV5+
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中央电视",CCTV5+-蜀小果
 http://[2409:8c62:7110:10c::13]/live.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8
 
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中央电视",CCTV5+
-http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中央电视",CCTV5+-JD
+http://120.84.96.161:808/hls/30/index.m3u8
 
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="中央电视",CCTV6电影
 http://192.168.1.1:15104/udp/239.45.1.70:5140
@@ -433,7 +436,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221226922/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221226923/index.m3u8
 
 #EXTINF:-1 tvg-id="240" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
-http://113.64.147.181:808/hls/38/index.m3u8
+http://120.84.96.161:808/hls/81/index.m3u8
 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",翡翠台
 http://113.64.147.181:808/hls/67/index.m3u8
@@ -445,7 +448,7 @@ http://38.55.197.61/Xinhe/playlist.m3u8?tid=MCFC2010151520101515&ct=19249&tsum=a
 http://192.168.1.10/tvbp.php?id=0&hq
 
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经资讯台
-http://192.168.1.10/tvbp.php?id=2&hq
+http://120.84.96.161:808/hls/86/index.m3u8
 
 #EXTINF:-1 group-title="港澳台",无线新闻事件直播1
 http://192.168.1.10/tvbp.php?id=4&hq
