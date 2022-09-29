@@ -366,6 +366,15 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="电影剧场",CHC家庭影院
 http://[2409:8c02:21c:60::2f]/live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
 
+#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="电影剧场",东森电影台
+http://120.84.96.161:808/hls/32/index.m3u8
+
+#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="电影剧场",东森洋片台
+http://120.84.96.161:808/hls/33/index.m3u8
+
+#EXTINF:-1 tvg-id="6082" tvg-name="LSTime电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="电影剧场",龙祥时代
+http://120.84.96.161:808/hls/35/index.m3u8
+
 #EXTINF:-1 group-title="电影剧场",百事通超级体育
 http://192.168.1.1:15104/udp/239.45.3.139:5140
 
