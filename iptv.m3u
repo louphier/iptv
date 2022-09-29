@@ -370,10 +370,10 @@ http://[2409:8c02:21c:60::2f]/live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000
 http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=dsdy
 
 #EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="电影剧集",东森洋片台
-http://120.84.96.161:808/hls/33/index.m3u8
+http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=dsyp
 
 #EXTINF:-1 tvg-id="6082" tvg-name="LSTime电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="电影剧集",龙祥时代
-http://120.84.96.161:808/hls/35/index.m3u8
+http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=lxsd
 
 #EXTINF:-1 tvg-id="7127" tvg-name="龙华戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7.png" group-title="电影剧集",	龙华戏剧
 http://pull-rtmp-l6.ixigua.com/live/01bd1adb516c338d29b8ad88ff48d918.flv
@@ -421,11 +421,10 @@ https://pull-l3-cny.douyincdn.com/live/31e4cc8b83c83fd85d1a0d183e25bfd0.flv
 http://pull-rtmp-l6.ixigua.com/live/8618ce6a582ce5c936f63dcf40643fb7.flv
 
 #EXTINF:-1 tvg-id="6093" tvg-name="ELEVEN体育一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="体育赛事",ELEVEN体育一台
-https://pull-l3-cny.douyincdn.com/live/84b6232ddc76a94e278253d6eda1298c.flv
+http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=11ty1
 
 #EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="体育赛事",ELEVEN体育二台
-https://pull-l3-cny.douyincdn.com/live/2df30e8c70394be27c653c9e1c94ace7.flv
-
+http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=11ty2
 
 #EXTINF:-1 tvg-id="7212" tvg-name="爱尔达体育1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png" group-title="体育赛事",爱尔达体育1
 https://pull-l3-cny.douyincdn.com/live/e27056b6bcc9e83f5dc00eee78e67f87.flv
@@ -466,13 +465,13 @@ http://120.84.96.161:808/hls/81/index.m3u8
 https://pull-l3-cny.douyincdn.com/live/377d9dc68a7275405afa62d1cc980719.flv
 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",翡翠台
-http://113.64.147.6:808/hls/67/index.m3u8
+http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=tvbfc
 
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="港澳台",明珠台
 https://pull-l3-cny.douyincdn.com/live/377d9dc68a7275405afa62d1cc980719.flv
 
 #EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png" group-title="港澳台",TVB星河频道
-http://113.64.147.6:808/hls/135/index.m3u8
+http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=tvbxh
 
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台
 http://192.168.1.10/tvbp.php?id=0&hq
