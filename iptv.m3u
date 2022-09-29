@@ -321,113 +321,116 @@ http://192.168.1.1:15104/udp/239.45.3.50:5140
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方卫视",中数快乐垂钓
 http://192.168.1.1:15104/udp/239.45.3.12:5140
 
-#EXTINF:-1 tvg-id="2060" tvg-name="峨嵋电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/emeidianying.png" group-title="影剧体育",四川峨嵋电影
+#EXTINF:-1 tvg-id="2060" tvg-name="峨嵋电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/emeidianying.png" group-title="电影剧集",四川峨嵋电影
 http://[2409:8c02:21c:60::2f]/live2.rxip.sc96655.com/live/emdygqH265_4000.m3u8
 
-#EXTINF:-1 tvg-id="2060" tvg-name="峨嵋电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/emeidianying.png" group-title="影剧体育",四川峨嵋电影
+#EXTINF:-1 tvg-id="2060" tvg-name="峨嵋电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/emeidianying.png" group-title="电影剧集",四川峨嵋电影
 http://[2409:8c02:21c:60::2b]/live2.rxip.sc96655.com/live/emdygqH265_4000.m3u8
 
-#EXTINF:-1 group-title="影剧体育",4K超高清电影
+#EXTINF:-1 group-title="电影剧集",4K超高清电影
 http://[2409:8c02:21c:60::2f]/live2.rxip.sc96655.com/live/emdy4k_8000.m3u8
 
-#EXTINF:-1 group-title="影剧体育",超级电影
+#EXTINF:-1 group-title="电影剧集",超级电影
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225623/2/index.m3u8
 
-#EXTINF:-1 group-title="影剧体育",4KUHD超高清
+#EXTINF:-1 group-title="电影剧集",4KUHD超高清
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 
-#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="影剧体育",广东体育
-http://120.84.96.161:808/hls/22/index.m3u8
-
-#EXTINF:-1 group-title="影剧体育",CBN幸福剧场
+#EXTINF:-1 group-title="电影剧集",CBN幸福剧场
 http://[2409:8c02:21c:60::2f]/live2.rxip.sc96655.com/live/xfjc_4000.m3u8
 
-#EXTINF:-1 group-title="影剧体育",CBN每日影院
+#EXTINF:-1 group-title="电影剧集",CBN每日影院
 http://[2409:8c02:21c:60::2f]/live2.rxip.sc96655.com/live/mryy_4000.m3u8
 
-#EXTINF:-1 group-title="影剧体育",CBN幸福娱乐
+#EXTINF:-1 group-title="电影剧集",CBN幸福娱乐
 http://[2409:8c02:21c:60::2f]/live2.rxip.sc96655.com/live/xfyl_4000.m3u8
 
-#EXTINF:-1 group-title="影剧体育",CBN风尚生活
+#EXTINF:-1 group-title="电影剧集",CBN风尚生活
 http://[2409:8c02:21c:60::2f]/live2.rxip.sc96655.com/live/fssh_4000.m3u8
 
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="影剧体育",CHC高清电影
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="电影剧集",CHC高清电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="影剧体育",CHC高清电影
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="电影剧集",CHC高清电影
 http://[2409:8c02:21c:60::2f]/live2.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8
 
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="影剧体育",CHC动作电影
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="电影剧集",CHC动作电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="影剧体育",CHC动作电影
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="电影剧集",CHC动作电影
 http://[2409:8c02:21c:60::2f]/live2.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8
 
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="影剧体育",CHC家庭影院
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="电影剧集",CHC家庭影院
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="影剧体育",CHC家庭影院
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="电影剧集",CHC家庭影院
 http://[2409:8c02:21c:60::2f]/live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
 
-#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="影剧体育",东森电影台
+#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="电影剧集",东森电影台
 http://120.84.96.161:808/hls/32/index.m3u8
 
-#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="影剧体育",东森洋片台
+#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="电影剧集",东森洋片台
 http://120.84.96.161:808/hls/33/index.m3u8
 
-#EXTINF:-1 tvg-id="6082" tvg-name="LSTime电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="影剧体育",龙祥时代
+#EXTINF:-1 tvg-id="6082" tvg-name="LSTime电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="电影剧集",龙祥时代
 http://120.84.96.161:808/hls/35/index.m3u8
 
-#EXTINF:-1 group-title="影剧体育",百事通超级体育
-http://192.168.1.1:15104/udp/239.45.3.139:5140
+#EXTINF:-1 tvg-id="7165" tvg-name="AMC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" group-title="电影剧集",AMC电影台
+http://pull-rtmp-l6.ixigua.com/live/7a78bd813a64688b561361f88b1ba76b.flv
 
-#EXTINF:-1 group-title="影剧体育",百事通4K电影
+#EXTINF:-1 tvg-id="7185" tvg-name="影迷数位电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" group-title="电影剧集",影迷数位电影
+http://pull-rtmp-l6.ixigua.com/live/a33f7b1bd2b82a43b8986baf8bff0632.flv
+
+#EXTINF:-1 group-title="电影剧集",百事通4K电影
 http://192.168.1.1:15104/udp/239.45.1.42:5140
 
-#EXTINF:-1 group-title="影剧体育",百事通4K（备）
+#EXTINF:-1 group-title="电影剧集",百事通4K（备）
 http://192.168.1.1:15104/udp/239.45.3.107:5140
 
-#EXTINF:-1 group-title="影剧体育",百事通4K纪实
+#EXTINF:-1 group-title="电影剧集",百事通4K纪实
 http://192.168.1.1:15104/udp/239.45.1.10:5140
 
-#EXTINF:-1 group-title="影剧体育",百事通4K儿童
+#EXTINF:-1 group-title="电影剧集",百事通4K儿童
 http://192.168.1.1:15104/udp/239.45.1.1:5140
 
-#EXTINF:-1 group-title="空中课题",空中课堂一年级
-http://192.168.1.1:15104/udp/239.45.1.28:5140
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="体育赛事",广东体育
+http://120.84.96.161:808/hls/22/index.m3u8
 
-#EXTINF:-1 group-title="空中课题",空中课堂二年级
-http://192.168.1.1:15104/udp/239.45.1.29:5140
+#EXTINF:-1 group-title="体育赛事",Now Sports
+https://pull-l3-cny.douyincdn.com/live/14eac9df8b31a79e3c6f244f15f794f2.flv
 
-#EXTINF:-1 group-title="空中课题",空中课堂三年级
-http://192.168.1.1:15104/udp/239.45.1.30:5140
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="体育赛事",纬来体育台
+rtmp://59.124.75.150/sat/tv721
 
-#EXTINF:-1 group-title="空中课题",空中课堂四年级
-http://192.168.1.1:15104/udp/239.45.1.31:5140
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="体育赛事",纬来体育台
+rtmp://59.124.75.138:1935/sat/tv721
 
-#EXTINF:-1 group-title="空中课题",空中课堂五年级
-http://192.168.1.1:15104/udp/239.45.1.32:5140
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="体育赛事",纬来体育台
+https://pull-l3-cny.douyincdn.com/live/31e4cc8b83c83fd85d1a0d183e25bfd0.flv
 
-#EXTINF:-1 group-title="空中课题",空中课堂六年级
-http://192.168.1.1:15104/udp/239.45.1.33:5140
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="体育赛事",纬来体育台
+http://pull-rtmp-l6.ixigua.com/live/8618ce6a582ce5c936f63dcf40643fb7.flv
 
-#EXTINF:-1 group-title="空中课题",空中课堂七年级
-http://192.168.1.1:15104/udp/239.45.1.34:5140
+#EXTINF:-1 tvg-id="6093" tvg-name="ELEVEN体育一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="体育赛事",ELEVEN体育一台
+https://pull-l3-cny.douyincdn.com/live/84b6232ddc76a94e278253d6eda1298c.flv
 
-#EXTINF:-1 group-title="空中课题",空中课堂八年级
-http://192.168.1.1:15104/udp/239.45.1.35:5140
+#EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="体育赛事",ELEVEN体育二台
+https://pull-l3-cny.douyincdn.com/live/2df30e8c70394be27c653c9e1c94ace7.flv
 
-#EXTINF:-1 group-title="空中课题",空中课堂九年级
-http://192.168.1.1:15104/udp/239.45.1.36:5140
 
-#EXTINF:-1 group-title="空中课题",空中课堂高一年级
-http://192.168.1.1:15104/udp/239.45.1.37:5140
+#EXTINF:-1 tvg-id="7212" tvg-name="爱尔达体育1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png" group-title="体育赛事",爱尔达体育1
+https://pull-l3-cny.douyincdn.com/live/e27056b6bcc9e83f5dc00eee78e67f87.flv
 
-#EXTINF:-1 group-title="空中课题",空中课堂高二年级
-http://192.168.1.1:15104/udp/239.45.1.38:5140
+#EXTINF:-1 tvg-id="7192" tvg-name="爱尔达体育2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_sports2.png" group-title="体育赛事",爱尔达体育2
+https://pull-l3-cny.douyincdn.com/live/5cf65a9a2173c2bd6978d27fbbc6defc.flv
 
-#EXTINF:-1 group-title="空中课题",空中课堂高三年级
-http://192.168.1.1:15104/udp/239.45.1.39:5140
+#EXTINF:-1 tvg-id="7213" tvg-name="爱尔达体育3" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports3.png" group-title="体育赛事",爱尔达体育3
+https://pull-l3-cny.douyincdn.com/live/2f58fd10d7aa7709236a703234cc1fd9.flv
+
+
+#EXTINF:-1 group-title="体育赛事",百事通超级体育
+http://192.168.1.1:15104/udp/239.45.3.139:5140
+
 
 #EXTINF:-1 tvg-id="238" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
@@ -451,7 +454,13 @@ http://ott.mobaibox.com/PLTV/3/224/3221226923/index.m3u8
 http://120.84.96.161:808/hls/81/index.m3u8
 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",翡翠台
+https://pull-l3-cny.douyincdn.com/live/377d9dc68a7275405afa62d1cc980719.flv
+
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",翡翠台
 http://113.64.147.6:808/hls/67/index.m3u8
+
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="港澳台",明珠台
+https://pull-l3-cny.douyincdn.com/live/377d9dc68a7275405afa62d1cc980719.flv
 
 #EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png" group-title="港澳台",TVB星河频道
 http://113.64.147.6:808/hls/135/index.m3u8
@@ -468,17 +477,8 @@ http://192.168.1.10/tvbp.php?id=4&hq
 #EXTINF:-1 group-title="港澳台",无线新闻事件直播2
 http://192.168.1.10/tvbp.php?id=6&hq
 
-#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="港澳台",纬来体育台
-rtmp://59.124.75.150/sat/tv721
-
-#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="港澳台",纬来体育台
-rtmp://59.124.75.138:1935/sat/tv721
-
-#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="港澳台",纬来体育台
-https://pull-l3-cny.douyincdn.com/live/31e4cc8b83c83fd85d1a0d183e25bfd0.flv
-
-#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="港澳台",纬来体育台
-http://pull-rtmp-l6.ixigua.com/live/8618ce6a582ce5c936f63dcf40643fb7.flv
+#EXTINF:-1 tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="港澳台",纬来育乐台
+https://pull-l3-cny.douyincdn.com/live/0bc4c572251092a3c9270622ea8f78d1.flv
 
 #EXTINF:-1 tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="港澳台",纬来育乐台
 rtmp://59.124.75.150/sat/tv701
@@ -492,8 +492,7 @@ http://60.251.33.252:18541/.m3u8
 #EXTINF:-1 tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="港澳台",纬来育乐台
 http://123.51.229.65:18541/.m3u8
 
-#EXTINF:-1 tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="港澳台",纬来育乐台
-rtmp://59.124.75.138/sat/tv701
+
 
 #EXTINF:-1 group-title="bestv轮播",极限挑战
 http://192.168.1.10/bestv.php?id=27
@@ -555,6 +554,43 @@ http://192.168.1.10/bestv.php?id=52
 http://192.168.1.10/bestv.php?id=38
 #EXTINF:-1 group-title="bestv轮播",谜案大世界
 http://192.168.1.10/bestv.php?id=84
+
+#EXTINF:-1 group-title="空中课题",空中课堂一年级
+http://192.168.1.1:15104/udp/239.45.1.28:5140
+
+#EXTINF:-1 group-title="空中课题",空中课堂二年级
+http://192.168.1.1:15104/udp/239.45.1.29:5140
+
+#EXTINF:-1 group-title="空中课题",空中课堂三年级
+http://192.168.1.1:15104/udp/239.45.1.30:5140
+
+#EXTINF:-1 group-title="空中课题",空中课堂四年级
+http://192.168.1.1:15104/udp/239.45.1.31:5140
+
+#EXTINF:-1 group-title="空中课题",空中课堂五年级
+http://192.168.1.1:15104/udp/239.45.1.32:5140
+
+#EXTINF:-1 group-title="空中课题",空中课堂六年级
+http://192.168.1.1:15104/udp/239.45.1.33:5140
+
+#EXTINF:-1 group-title="空中课题",空中课堂七年级
+http://192.168.1.1:15104/udp/239.45.1.34:5140
+
+#EXTINF:-1 group-title="空中课题",空中课堂八年级
+http://192.168.1.1:15104/udp/239.45.1.35:5140
+
+#EXTINF:-1 group-title="空中课题",空中课堂九年级
+http://192.168.1.1:15104/udp/239.45.1.36:5140
+
+#EXTINF:-1 group-title="空中课题",空中课堂高一年级
+http://192.168.1.1:15104/udp/239.45.1.37:5140
+
+#EXTINF:-1 group-title="空中课题",空中课堂高二年级
+http://192.168.1.1:15104/udp/239.45.1.38:5140
+
+#EXTINF:-1 group-title="空中课题",空中课堂高三年级
+http://192.168.1.1:15104/udp/239.45.1.39:5140
+
 
 #EXTINF:-1 tvg-id="239" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="youtube",凤凰资讯
 http://192.168.1.10/ytb.php?id=pinhfr&q=301
