@@ -376,10 +376,10 @@ http://120.84.96.161:808/hls/33/index.m3u8
 http://120.84.96.161:808/hls/35/index.m3u8
 
 #EXTINF:-1 tvg-id="7165" tvg-name="AMC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" group-title="电影剧集",AMC电影台
-http://pull-rtmp-l6.ixigua.com/live/7a78bd813a64688b561361f88b1ba76b.flv
+http://pull-rtmp-l6.ixigua.com/live/1237801fd6e21028a04780d7f8eeecda.flv
 
 #EXTINF:-1 tvg-id="7185" tvg-name="影迷数位电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" group-title="电影剧集",影迷数位电影
-http://pull-rtmp-l6.ixigua.com/live/a33f7b1bd2b82a43b8986baf8bff0632.flv
+http://pull-rtmp-l6.ixigua.com/live/56eaf025ba3a1279c422d8fcd065012e.flv
 
 #EXTINF:-1 group-title="电影剧集",百事通4K电影
 http://192.168.1.1:15104/udp/239.45.1.42:5140
