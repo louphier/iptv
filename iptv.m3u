@@ -477,6 +477,9 @@ rtmp://59.124.75.138:1935/sat/tv721
 #EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="港澳台",纬来体育台
 http://60.251.33.252:18509/.m3u8
 
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="港澳台",纬来体育台
+http://pull-rtmp-l6.ixigua.com/live/8618ce6a582ce5c936f63dcf40643fb7.flv
+
 #EXTINF:-1 tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="港澳台",纬来育乐台
 rtmp://59.124.75.150/sat/tv701
 
