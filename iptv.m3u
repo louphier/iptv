@@ -124,7 +124,7 @@ http://192.168.1.1:15104/udp/239.45.1.69:5140
 http://192.168.1.10/migu.php?id=cctv5p
 
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中央电视",CCTV5+
-http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8#http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225706/index.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中央电视",CCTV5+-蜀小果
 http://[2409:8c02:21c:60::2f]/live2.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8
@@ -404,6 +404,18 @@ http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=11ty1
 
 #EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="体育赛事",ELEVEN体育二台
 http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=11ty2
+
+#EXTINF:-1 tvg-id="7212" tvg-name="爱尔达体育1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png" group-title="体育赛事",爱尔达体育1
+rtmp://59.124.75.138/sat/md051
+
+#EXTINF:-1 tvg-id="7192" tvg-name="爱尔达体育2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_sports2.png" group-title="体育赛事",爱尔达体育2
+rtmp://59.124.75.138/sat/md011
+
+#EXTINF:-1 tvg-id="7213" tvg-name="爱尔达体育3" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports3.png" group-title="体育赛事",爱尔达体育3
+rtmp://59.124.75.138/sat/md041
+
+#EXTINF:-1 group-title="体育赛事",ELTA体育
+rtmp://59.124.75.138/sat/md021
 
 #EXTINF:-1 group-title="体育赛事",百事通超级体育
 http://192.168.1.1:15104/udp/239.45.3.139:5140
