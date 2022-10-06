@@ -414,7 +414,7 @@ rtmp://59.124.75.138/sat/md051
 #EXTINF:-1 tvg-id="7213" tvg-name="爱尔达体育3" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports3.png" group-title="体育赛事",爱尔达体育3
 rtmp://59.124.75.138/sat/md011
 
-#EXTINF:-1 group-title="体育赛事",ELTA体育
+#EXTINF:-1 tvg-id="6179" tvg-name="斯魅力网" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-trendsport.png" group-title="体育赛事",博斯魅力
 rtmp://59.124.75.138/sat/md021
 
 #EXTINF:-1 group-title="体育赛事",百事通超级体育
@@ -432,11 +432,20 @@ http://111.11.123.30:6610/000000001000/6000000002000032052/1.m3u8?Contentid=6000
 #EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.png" group-title="科教记录",求索科学
 http://111.11.123.30:6610/000000001000/6000000002000032344/1.m3u8?Contentid=6000000002000032344&livemode=1&stbId=3&channel-id=wasusyt
 
+#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.png" group-title="科教记录",求索科学
+http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
+
 #EXTINF:-1 group-title="科教记录",求索生活
 http://111.11.123.30:6610/000000001000/6000000002000003382/1.m3u8?Contentid=6000000002000003382&livemode=1&stbId=3&channel-id=wasusyt
 
+#EXTINF:-1 group-title="科教记录",求索生活
+http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
+
 #EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png" group-title="科教记录",求索动物
 http://111.11.123.30:6610/000000001000/6000000002000010046/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
+
+#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png" group-title="科教记录",求索动物
+http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
 
 #EXTINF:-1 tvg-id="238" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
