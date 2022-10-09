@@ -333,12 +333,6 @@ http://[2409:8c02:21c:60::2b]/live2.rxip.sc96655.com/live/emdygqH265_4000.m3u8
 #EXTINF:-1 group-title="电影剧集",4K超高清电影
 http://[2409:8c02:21c:60::2f]/live2.rxip.sc96655.com/live/emdy4k_8000.m3u8
 
-#EXTINF:-1 group-title="电影剧集",超级电影
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225623/2/index.m3u8
-
-#EXTINF:-1 group-title="电影剧集",4KUHD超高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-
 #EXTINF:-1 group-title="电影剧集",CBN幸福剧场
 http://[2409:8c02:21c:60::2f]/live2.rxip.sc96655.com/live/xfjc_4000.m3u8
 
@@ -350,6 +344,12 @@ http://[2409:8c02:21c:60::2f]/live2.rxip.sc96655.com/live/xfyl_4000.m3u8
 
 #EXTINF:-1 group-title="电影剧集",CBN风尚生活
 http://[2409:8c02:21c:60::2f]/live2.rxip.sc96655.com/live/fssh_4000.m3u8
+
+#EXTINF:-1 group-title="电影剧集",黑莓电影
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225769/2/index.m3u8
+
+#EXTINF:-1 group-title="电影剧集",4KUHD超高清
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8#http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="电影剧集",CHC高清电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -471,8 +471,11 @@ http://ott.mobaibox.com/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 tvg-id="240" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
 http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=fhxg
 
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",翡翠台
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",翡翠台FHD
 http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=tvbfc
+
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",翡翠台HD
+http://23.237.10.66:16106
 
 #EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png" group-title="港澳台",TVB星河频道
 http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=tvbxh
@@ -534,12 +537,62 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="央视风云",CCTV台球
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8 
 
-
 #EXTINF:-1 group-title="央视风云",CCTV电视指南
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8 
 
 #EXTINF:-1 group-title="央视风云",CCTV文化精品
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8 
+
+
+#EXTINF:-1 group-title="NewTV系列",NewTV欢乐剧场
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225623/2/index.m3u8
+
+#EXTINF:-1 group-title="NewTV系列",NewTV超级电影
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226210/2/index.m3u8
+
+#EXTINF:-1 group-title="NewTV系列",NewTV中国功夫
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225660/2/index.m3u8
+
+#EXTINF:-1 group-title="NewTV系列",NewTV东北热剧
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226202/2/index.m3u8
+
+#EXTINF:-1 group-title="NewTV系列",NewTV古装剧场
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225678/2/index.m3u8
+
+#EXTINF:-1 group-title="NewTV系列",NewTV海外剧场
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225712/2/index.m3u8
+
+#EXTINF:-1 group-title="NewTV系列",NEWTV潮妈辣婆
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225708/2/index.m3u8
+
+#EXTINF:-1 group-title="NewTV系列",NEWTV超级体育
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225767/2/index.m3u8
+#EXTINF:-1 group-title="NewTV系列",NEWTV武搏世界
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225656/2/index.m3u8
+#EXTINF:-1 group-title="NewTV系列",NEWTV精品大剧
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225714/2/index.m3u8
+#EXTINF:-1 group-title="NewTV系列",NEWTV超级综艺
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225768/2/index.m3u8
+#EXTINF:-1 group-title="NewTV系列",NEWTV金牌综艺
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225711/2/index.m3u8
+#EXTINF:-1 group-title="NewTV系列",NEWTV农业致富
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225670/2/index.m3u8
+#EXTINF:-1 group-title="NewTV系列",NewTV明星大片
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225716/2/index.m3u8
+#EXTINF:-1 group-title="NewTV系列",NEWTV家庭剧场
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225713/2/index.m3u8
+#EXTINF:-1 group-title="NewTV系列",NEWTV炫舞未来
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225707/2/index.m3u8
+#EXTINF:-1 group-title="NewTV系列",NEWTV精品纪录
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225710/2/index.m3u8
+#EXTINF:-1 group-title="NewTV系列",NEWTV怡伴健康
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225666/2/index.m3u8
+#EXTINF:-1 group-title="NewTV系列",NEWTV超级电视剧
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225625/2/index.m3u8
+#EXTINF:-1 group-title="NewTV系列",NEWTV军旅剧场
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225669/2/index.m3u8
+#EXTINF:-1 group-title="NewTV系列",NEWTV军事评论
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225757/2/index.m3u8
 
 #EXTINF:-1 tvg-id="239" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="youtube",凤凰资讯
 http://192.168.1.10/ytb.php?id=pinhfr&q=301
