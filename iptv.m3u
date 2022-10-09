@@ -357,8 +357,11 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225769/2/index.
 #EXTINF:-1 group-title="电影剧集",黑莓动画
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225672/2/index.m3u8
 
-#EXTINF:-1 group-title="电影剧集",电影测试
+#EXTINF:-1 group-title="电影剧集",IPTV1
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225716/2/index.m3u8
+
+#EXTINF:-1 group-title="电影剧集",IPTV2
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226261/2/index.m3u8
 
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="电影剧集",CHC高清电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -555,20 +558,29 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 #EXTINF:-1 group-title="NewTV系列",NewTV超级电影
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225623/2/index.m3u8
 
+#EXTINF:-1 group-title="NewTV系列",NewTV动作电影
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225879/index.m3u8?servicetype=1
+
+#EXTINF:-1 group-title="NewTV系列",NewTV海外剧场
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225712/2/index.m3u8
+
 #EXTINF:-1 group-title="NewTV系列",NewTV欢乐剧场
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226210/2/index.m3u8
 
 #EXTINF:-1 group-title="NewTV系列",NewTV中国功夫
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225660/2/index.m3u8
 
-#EXTINF:-1 group-title="NewTV系列",NewTV东北热剧
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226202/2/index.m3u8
-
 #EXTINF:-1 group-title="NewTV系列",NewTV古装剧场
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225678/2/index.m3u8
 
-#EXTINF:-1 group-title="NewTV系列",NewTV海外剧场
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225712/2/index.m3u8
+#EXTINF:-1 group-title="NewTV系列",NewTV爱情喜剧
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225877/index.m3u8?servicetype=1
+
+#EXTINF:-1 group-title="NewTV系列",NewTV惊悚悬疑
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225885/index.m3u8?servicetype=1
+
+#EXTINF:-1 group-title="NewTV系列",NewTV东北热剧
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226202/2/index.m3u8
 
 #EXTINF:-1 group-title="NewTV系列",NEWTV潮妈辣婆
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225708/2/index.m3u8
@@ -615,7 +627,8 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225666/2/index.
 #EXTINF:-1 group-title="NewTV系列",NEWTV炫舞未来
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225707/2/index.m3u8
 
-
+#EXTINF:-1 group-title="NewTV系列",NEWTV精品萌宠
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226245/2/index.m3u8
 
 #EXTINF:-1 tvg-id="239" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="youtube",凤凰资讯
 http://192.168.1.10/ytb.php?id=pinhfr&q=301
