@@ -505,7 +505,7 @@ http://60.251.33.252:18541/.m3u8
 http://123.51.229.65:18541/.m3u8
 
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视风云",CCTV风云足球
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8#http://111.20.33.70/PLTV/88888893/224/3221226984/index.m3u8
 
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视风云",CCTV风云音乐
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
@@ -533,6 +533,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="央视风云",CCTV台球
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8 
+
 
 #EXTINF:-1 group-title="央视风云",CCTV电视指南
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8 
