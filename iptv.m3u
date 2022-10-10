@@ -181,7 +181,7 @@ http://192.168.1.1:15104/udp/239.45.3.52:5140
 http://192.168.1.10/cctv4k.php
 
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中央电视",CCTV4K-蜀小果
-http://[2409:8c02:21c:60::2f]/live2.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
+http://192.168.1.10/test.php?id=ys4Kcq_2000#http://[2409:8c02:21c:60::2f]/live2.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
 
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中央电视",CCTV4K-FHD
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
