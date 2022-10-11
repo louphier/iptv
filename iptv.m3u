@@ -513,6 +513,9 @@ http://192.168.1.10/tvbp.php?id=0&hq
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经资讯台
 http://192.168.1.10/tvbp.php?id=2&hq
 
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经资讯台
+http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=tvbcj
+
 #EXTINF:-1 group-title="港澳台",无线新闻事件直播1
 http://192.168.1.10/tvbp.php?id=4&hq
 
