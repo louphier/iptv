@@ -123,23 +123,11 @@ http://192.168.1.1:15104/udp/239.45.0.2:5140
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="中央电视",CCTV5体育
 http://192.168.1.1:15104/udp/239.45.1.69:5140
 
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中央电视",CCTV5+-江西移动
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225706/2/index.m3u8
-
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中央电视",CCTV5+-蜀小果
-http://192.168.1.10/fruit.php?id=CCTV-5plusH265_4000#http://[2409:8c02:21c:60::2f]/live2.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8
-
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中央电视",CCTV5+-JD
-http://120.84.96.161:808/hls/30/index.m3u8
-
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中央电视",CCTV5+-咪咕
-http://192.168.1.10/migu.php?id=cctv5p#http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中央电视",CCTV5+体育赛事
+http://192.168.1.1:15104/udp/239.45.1.21:5140
 
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="中央电视",CCTV6电影
 http://192.168.1.1:15104/udp/239.45.1.70:5140
-
-#EXTINF:-1 group-title="中央电视",1905电影
-http://111.177.34.81/hlslive.1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
 
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="中央电视",CCTV7国防军事
 http://192.168.1.1:15104/udp/239.45.3.56:5140
@@ -323,6 +311,9 @@ http://192.168.1.1:15104/udp/239.45.3.50:5140
 
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="卫视频道",中数快乐垂钓
 http://192.168.1.1:15104/udp/239.45.3.12:5140
+
+#EXTINF:-1 group-title="电影剧集",1905电影
+http://111.177.34.81/hlslive.1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
 
 #EXTINF:-1 tvg-id="2060" tvg-name="峨嵋电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/emeidianying.png" group-title="电影剧集",四川峨嵋电影
 http://192.168.1.10/fruit.php?id=emdygqH265_4000#http://[2409:8c02:21c:60::2f]/live2.rxip.sc96655.com/live/emdygqH265_4000.m3u8
