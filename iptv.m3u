@@ -394,7 +394,7 @@ http://192.168.1.1:15104/udp/239.45.1.1:5140
 http://192.168.1.1:15104/udp/239.45.0.33:5140
 
 #EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="体育赛事",广东体育
-http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=gdty
+http://192.168.1.10/jdjy.php?id=gdty
 
 #EXTINF:-1 group-title="体育赛事",咪咕体育1
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226240/2/index.m3u8
