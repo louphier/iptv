@@ -24,14 +24,11 @@ http://192.168.1.1:15104/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海频道",上视外语
 http://192.168.1.1:15104/udp/239.45.1.127:5140
 
-#EXTINF:-1 group-title="上海频道",上海教育台HD
+#EXTINF:-1 group-title="上海频道",上海教育台
 http://192.168.1.1:15104/udp/239.45.0.13:5140
 
 #EXTINF:-1 group-title="上海频道",都市剧场
 http://192.168.1.1:15104/udp/239.45.3.136:5140
-
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海频道",哈哈炫动
-http://192.168.1.1:15104/udp/239.45.1.55:5140
 
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海频道",新视觉-蜀小果
 http://192.168.1.10/fruit.php?id=ycxsjH265_4000#http://[2409:8c02:21c:60::2f]/live2.rxip.sc96655.com/live/ycxsjH265_4000.m3u8
@@ -72,9 +69,6 @@ http://192.168.1.1:15104/udp/239.45.3.132:5140
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海频道",游戏风云
 http://192.168.1.1:15104/udp/239.45.3.131:5140
 
-#EXTINF:-1 group-title="上海频道",动漫秀场
-http://192.168.1.1:15104/udp/239.45.3.134:5140
-
 #EXTINF:-1 group-title="上海频道",东方财经
 http://192.168.1.1:15104/udp/239.45.0.17:5140
 
@@ -98,6 +92,9 @@ http://192.168.1.1:15104/udp/239.45.3.185:5140
 
 #EXTINF:-1 group-title="上海频道",健康人生
 http://192.168.1.1:15104/udp/239.45.3.214:5140
+
+#EXTINF:-1 group-title="上海频道",高清导视频道
+http://192.168.1.1:15104/udp/239.45.3.240:5140
 
 #EXTINF:-1 group-title="上海频道",百事通4K-测试
 http://192.168.1.1:15104/udp/239.45.1.108:5140
@@ -288,30 +285,6 @@ http://192.168.1.1:15104/udp/239.45.1.231:5140#http://192.168.1.1:15104/udp/239.
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视频道",三沙卫视
 http://192.168.1.1:15104/udp/239.45.1.82:5140
 
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视频道",卡酷少儿
-http://192.168.1.1:15104/udp/239.45.0.8:5140
-
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视频道",金鹰卡通
-http://192.168.1.1:15104/udp/239.45.3.118:5140#http://192.168.1.1:15104/udp/239.45.3.119:5140
-
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="卫视频道",金鹰纪实
-http://192.168.1.1:15104/udp/239.45.1.45:5140
-
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="卫视频道",嘉佳卡通
-http://192.168.1.1:15104/udp/239.45.1.48:5140
-
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="卫视频道",北京冬奥纪实
-http://192.168.1.1:15104/udp/239.45.1.14:5140
-
-#EXTINF:-1 group-title="卫视频道",中国天气
-http://192.168.1.1:15104/udp/239.45.1.47:5140
-
-#EXTINF:-1 group-title="卫视频道",陶瓷
-http://192.168.1.1:15104/udp/239.45.3.50:5140
-
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="卫视频道",中数快乐垂钓
-http://192.168.1.1:15104/udp/239.45.3.12:5140
-
 #EXTINF:-1 group-title="电影剧集",1905电影
 http://111.177.34.81/hlslive.1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
 
@@ -370,13 +343,19 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3
 http://192.168.1.10/fruit.php?id=jbtygqCHCjtyyH265_4000#http://[2409:8c02:21c:60::2f]/live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
 
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="电影剧集",东森电影台
-http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=dsdy
+http://192.168.1.10/jdjylt.php?tvid=dsdy
 
 #EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="电影剧集",东森洋片台
-http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=dsyp
+http://192.168.1.10/jdjylt.php?tvid=dsyp
 
 #EXTINF:-1 tvg-id="6082" tvg-name="LSTime电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="电影剧集",龙祥时代
-http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=lxsd
+http://192.168.1.10/jdjylt.php?tvid=lxsd
+
+#EXTINF:-1 group-title="电影剧集",天映经典
+http://192.168.1.10/jdjylt.php?tvid=tyjd
+
+#EXTINF:-1 group-title="电影剧集",澳门莲花
+http://192.168.1.10/jdjylt.php?tvid=amlh
 
 #EXTINF:-1 group-title="电影剧集",百事通4K电影
 http://192.168.1.1:15104/udp/239.45.1.42:5140
@@ -411,6 +390,9 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226238/2/index.
 #EXTINF:-1 group-title="体育赛事",咪咕视频3
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226241/2/index.m3u8
 
+#EXTINF:-1 group-title="体育赛事",足球频道
+http://192.168.1.1:15104/udp/239.45.3.22:5140
+
 #EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="体育赛事",纬来体育台
 rtmp://59.124.75.150/sat/tv721
 
@@ -438,11 +420,20 @@ rtmp://59.124.75.138/sat/md021
 #EXTINF:-1 group-title="体育赛事",百事通超级体育
 http://192.168.1.1:15104/udp/239.45.3.139:5140
 
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="卫视频道",中数快乐垂钓
+http://192.168.1.1:15104/udp/239.45.3.12:5140
+
 #EXTINF:-1 group-title="体育赛事",哒啵电竞
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226951/index.m3u8 
 
 #EXTINF:-1 group-title="体育赛事",哒啵赛事
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226954/index.m3u8 
+
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="科教记录",金鹰纪实
+http://192.168.1.1:15104/udp/239.45.1.45:5140
+
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="科教记录",北京冬奥纪实
+http://192.168.1.1:15104/udp/239.45.1.14:5140
 
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="科教记录",求索记录
 http://111.11.123.30:6610/000000001000/6000000002000032052/1.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt
@@ -465,6 +456,30 @@ http://111.11.123.30:6610/000000001000/6000000002000010046/1.m3u8?Contentid=6000
 #EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png" group-title="科教记录",求索动物
 http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
 
+#EXTINF:-1 group-title="科教记录",中国天气
+http://192.168.1.1:15104/udp/239.45.1.47:5140
+
+#EXTINF:-1 group-title="科教记录",陶瓷
+http://192.168.1.1:15104/udp/239.45.3.50:5140
+
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="科教记录",中数茶频道
+http://192.168.1.1:15104/udp/239.45.3.12:5140
+
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="少儿频道",哈哈炫动
+http://192.168.1.1:15104/udp/239.45.1.55:5140
+
+#EXTINF:-1 group-title="少儿频道",动漫秀场
+http://192.168.1.1:15104/udp/239.45.3.134:5140
+
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="少儿频道",卡酷少儿
+http://192.168.1.1:15104/udp/239.45.0.8:5140
+
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="少儿频道",金鹰卡通
+http://192.168.1.1:15104/udp/239.45.3.118:5140#http://192.168.1.1:15104/udp/239.45.3.119:5140
+
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="少儿频道",嘉佳卡通
+http://192.168.1.1:15104/udp/239.45.1.48:5140
+
 #EXTINF:-1 tvg-id="238" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 
@@ -484,10 +499,10 @@ http://ott.mobaibox.com/PLTV/3/224/3221226922/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221226923/index.m3u8
 
 #EXTINF:-1 tvg-id="240" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
-http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=fhxg
+http://192.168.1.10/jdjylt.php?tvid=fhxg
 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",翡翠台FHD
-http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=tvbfc
+http://192.168.1.10/jdjy.php?id=fct2
 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",翡翠台HD
 http://23.237.10.66:16106
@@ -505,7 +520,7 @@ http://192.168.1.10/tvbp.php?id=0&hq
 http://192.168.1.10/tvbp.php?id=2&hq
 
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经资讯台
-http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=tvbcj
+http://192.168.1.10/jdjylt.php?tvid=tvbcj
 
 #EXTINF:-1 group-title="港澳台",无线新闻事件直播1
 http://192.168.1.10/tvbp.php?id=4&hq
