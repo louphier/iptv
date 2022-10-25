@@ -174,10 +174,10 @@ http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="中央电视",CGTN
 http://192.168.1.1:15104/udp/239.45.1.194:5140
 
-#EXTINF:-1 group-title="中央电视",CGTN纪录
+#EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="中央电视",CGTN-Documentary
 http://[2409:8087:1070:301:2028::22]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225972/index.m3u8?fmt=ts2hls
 
-#EXTINF:-1 group-title="中央电视",CGTN纪录
+#EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="中央电视",CGTN-Documentary
 http://[2409:8087:1070:301:2028::21]:80/wh7f454c46tw4203473864_1528765209/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225972/10000100000000060000000000890994_0.smil/01.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="中央电视",中国教育-1
@@ -326,6 +326,15 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225769/2/index.
 
 #EXTINF:-1 group-title="电影剧集",黑莓动画
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225672/2/index.m3u8
+
+#EXTINF:-1 group-title="电影剧集",虎牙放映厅
+http://36.99.180.171/txdirect.hls.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.flv
+
+#EXTINF:-1 group-title="电影剧集",虎牙影院
+http://36.99.180.171/txdirect.hls.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.flv
+
+#EXTINF:-1 group-title="电影剧集",虎牙八点档
+http://36.99.180.171/txdirect.hls.huya.com/src/1524439855-1524439855-6547419321943982080-3049003166-10057-A-0-1.flv
 
 #EXTINF:-1 group-title="电影剧集",IPTV1
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225716/2/index.m3u8
