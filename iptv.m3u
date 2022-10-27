@@ -292,6 +292,9 @@ http://192.168.1.1:15104/udp/239.45.1.231:5140#http://192.168.1.1:15104/udp/239.
 http://192.168.1.1:15104/udp/239.45.1.82:5140
 
 #EXTINF:-1 group-title="电影剧集",1905电影
+https://hlslive.1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8?tm=1666870223&sign=32c25e8188359cd83573ce4d4066740e
+
+#EXTINF:-1 group-title="电影剧集",1905电影
 http://111.177.34.66/hlslive.1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
 
 #EXTINF:-1 tvg-id="2060" tvg-name="峨嵋电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/emeidianying.png" group-title="电影剧集",四川峨嵋电影
