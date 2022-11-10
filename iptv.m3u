@@ -154,7 +154,7 @@ http://192.168.1.1:15104/udp/239.45.3.23:5140
 http://192.168.1.1:15104/udp/239.45.0.20:5140
 
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="中央电视",CCTV16-FHD
-http://192.168.1.1:15104/udp/239.45.0.11:5140
+http://192.168.1.1:15104/udp/239.45.1.21:5140
 
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="中央电视",CCTV16-UHD
 http://192.168.1.1:15104/udp/239.45.0.12:5140
@@ -474,7 +474,6 @@ rtmp://59.124.75.138/sat/md011
 #EXTINF:-1 tvg-id="6179" tvg-name="斯魅力网" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-trendsport.png" group-title="体育赛事",博斯魅力
 rtmp://59.124.75.138/sat/md021
 
-
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="卫视频道",中数快乐垂钓
 http://192.168.1.1:15104/udp/239.45.3.12:5140
 
@@ -569,10 +568,28 @@ http://ott.mobaibox.com/PLTV/3/224/3221226923/index.m3u8
 http://192.168.1.10/jdjylt.php?tvid=fhxg
 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",翡翠台FHD
-http://192.168.1.10/jdjy.php?id=fct2
+https://hkanime:hkanime@cdn.hklive.tv/xxxx2/81/index.m3u8
 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",翡翠台HD
 http://23.237.10.66:16106
+
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="港澳台",明珠台
+https://hkanime:hkanime@cdn.hklive.tv/xxxx2/84/index.m3u8
+
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="港澳台",明珠台-粤语
+https://hkanime:hkanime@cdn.hklive.tv/xxxx2/84b/index.m3u8
+
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2
+https://hkanime:hkanime@cdn.hklive.tv/xxxx2/82/index.m3u8
+
+#EXTINF:-1 group-title="港澳台",港台電視31
+https://hkanime:hkanime@cdn.hklive.tv/xxxx2/31/index.m3u8
+
+#EXTINF:-1 group-title="港澳台",港台電視32
+https://hkanime:hkanime@cdn.hklive.tv/xxxx2/32/index.m3u8
+
+#EXTINF:-1 group-title="港澳台",TOY TV
+https://hkanime:hkanime@cdn.hklive.tv/xxxx2/77/index.m3u8
 
 #EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png" group-title="港澳台",TVB星河频道
 http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=tvbxh
@@ -594,6 +611,7 @@ http://192.168.1.10/tvbp.php?id=4&hq
 
 #EXTINF:-1 group-title="港澳台",无线新闻事件直播2
 http://192.168.1.10/tvbp.php?id=6&hq
+
 
 #EXTINF:-1 tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="港澳台",纬来育乐台
 rtmp://59.124.75.150/sat/tv701
