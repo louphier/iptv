@@ -163,7 +163,7 @@ http://192.168.1.1:15104/udp/239.45.0.12:5140
 http://192.168.1.1:15104/udp/239.45.3.52:5140
 
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中央电视",CCTV4K-TS
-http://192.168.1.10/cctv4k.php?id=4K0219
+http://192.168.1.10/cache.php
 
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中央电视",CCTV4K-蜀小果
 http://192.168.1.10/fruit.php?id=ys4Kcq_2000#http://[2409:8c02:21c:60::2f]/live2.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
