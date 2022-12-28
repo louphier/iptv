@@ -39,17 +39,14 @@ http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海频道",劲爆体育-蜀小果
 http://192.168.1.10/fruit.php?id=lqhxjcHDH265_4000#http://[2409:8c02:21c:60::2f]/live2.rxip.sc96655.com/live/lqhxjcHDH265_4000.m3u8
 
-#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海频道",劲爆体育-bestv
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海频道",劲爆体育-谷豆
+http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=RRHpIUO1pcJXglzwQCULsA%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=jinbaotiyuHD_7000
 
 #EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海频道",魅力足球-蜀小果
 http://192.168.1.10/fruit.php?id=mlyy_4000#http://[2408:871a:6010:1::2]/live2.rxip.sc96655.com/live/mlyy_4000.m3u8
 
-#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海频道",魅力足球-bestv
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
-
-#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="上海频道",MAX极速汽车
-http://192.168.1.1:15104/udp/239.45.3.49:5140
+#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海频道",魅力足球-谷豆
+http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=RRHpIUO1pcJXglzwQCULsA%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=meiliyinyueHD_7000
 
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海频道",乐游
 http://192.168.1.1:15104/udp/239.45.3.135:5140
@@ -59,9 +56,6 @@ http://192.168.1.1:15104/udp/239.45.3.196:5140
 
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海频道",欢笑剧场UHD
 http://192.168.1.1:15104/udp/239.45.1.4:5140
-
-#EXTINF:-1 tvg-id="1980" tvg-name="幸福彩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xingfucai.png" group-title="上海频道",幸福彩-bestv
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xfchd/4000000/mnf.m3u8
 
 #EXTINF:-1  tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海频道",生活时尚
 http://192.168.1.1:15104/udp/239.45.3.132:5140
@@ -400,7 +394,7 @@ http://192.168.1.1:15104/udp/239.45.1.1:5140
 http://192.168.1.1:15104/udp/239.45.0.33:5140
 
 #EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="体育赛事",广东体育
-http://192.168.1.10/jdjy.php?id=gdty
+http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=RRHpIUO1pcJXglzwQCULsA%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=gdsportsHD_7000
 
 #EXTINF:-1 group-title="体育赛事",咪咕体育1
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226240/2/index.m3u8
@@ -495,7 +489,7 @@ http://111.11.123.30:6610/000000001000/6000000002000032344/1.m3u8?Contentid=6000
 #EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.png" group-title="科教记录",求索科学
 http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
 
-#EXTINF:-1 group-title="科教记录",求索生活
+#EXTINF:-1,tvg-id="浙江求索生活" tvg-name="浙江求索生活" tvg-logo="https://epg.112114.xyz/logo/浙江求索生活.png" group-title="科教记录",求索生活
 http://111.11.123.30:6610/000000001000/6000000002000003382/1.m3u8?Contentid=6000000002000003382&livemode=1&stbId=3&channel-id=wasusyt
 
 #EXTINF:-1 group-title="科教记录",求索生活
@@ -564,17 +558,17 @@ http://ott.mobaibox.com/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 tvg-id="240" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
 http://192.168.1.10/jdjylt.php?tvid=fhxg
 
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",翡翠台FHD
-https://hkanime:hkanime@cdn.hklive.tv/xxxx2/81/index.m3u8
-
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",翡翠台HD
-http://23.237.10.66:16106
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",翡翠台
+http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=RRHpIUO1pcJXglzwQCULsA%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=1350_4500
 
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="港澳台",明珠台
-https://hkanime:hkanime@cdn.hklive.tv/xxxx2/84/index.m3u8
+http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=RRHpIUO1pcJXglzwQCULsA%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=1351_4500
 
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="港澳台",明珠台-粤语
-https://hkanime:hkanime@cdn.hklive.tv/xxxx2/84b/index.m3u8
+#EXTINF:-1,tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="港澳台",星空卫视
+http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=RRHpIUO1pcJXglzwQCULsA%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=xingkong_1500
+
+#EXTINF:-1,tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://epg.112114.xyz/logo/澳亚卫视.png" group-title="港澳台",澳亚卫视
+http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=RRHpIUO1pcJXglzwQCULsA%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=aoya_1500
 
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2
 https://hkanime:hkanime@cdn.hklive.tv/xxxx2/82/index.m3u8
