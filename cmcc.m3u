@@ -57,26 +57,17 @@ http://192.168.1.10/fruit.php?id=CCTV-16_4000
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中央电视",CCTV17农村农业
 http://192.168.1.10/fruit.php?id=CCTV-17_4000
 
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中央电视",CCTV4K-TS
-http://192.168.1.10/cache.php
-
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中央电视",CCTV4K-蜀小果
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中央电视",CCTV4K超高清
 http://192.168.1.10/fruit.php?id=ys4Kcq_2000
 
 #EXTINF:-1 tvg-id="18" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="中央电视",CGTN
 http://192.168.1.10/fruit.php?id=CGTN_4000
 
-#EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="中央电视",CGTN-Documentary
-http://[2409:8087:1070:301:2028::22]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225972/index.m3u8?fmt=ts2hls
-
-#EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="中央电视",CGTN-Documentary
-http://[2409:8087:1070:301:2028::21]:80/wh7f454c46tw4203473864_1528765209/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225972/10000100000000060000000000890994_0.smil/01.m3u8?fmt=ts2hls
-
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="中央电视",中国教育-1
 http://192.168.1.10/fruit.php?id=CETV-1H264_4000
 
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B24%E5%8F%B0.png" group-title="中央电视",中国教育-4
-http://192.168.1.10/fruit.php?id=CETV-4H264_2000
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8?
 
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视频道",湖南卫视
 http://192.168.1.10/fruit.php?id=hnwsH265_4000
@@ -103,10 +94,10 @@ http://192.168.1.10/fruit.php?id=gdwsH265_4000
 http://192.168.1.10/fruit.php?id=szwsH265_4000
 
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视频道",辽宁卫视
-http://192.168.1.10/fruit.php?id=lnwsHDH264_4000
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001035/index.m3u8?
 
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视频道",海南卫视
-http://192.168.1.10/fruit.php?id=hnws_4000
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001183/index.m3u8?
 
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视频道",山东卫视
 http://192.168.1.10/fruit.php?id=sdwsH265_4000
@@ -130,7 +121,7 @@ http://192.168.1.10/fruit.php?id=gxws_4000
 http://192.168.1.10/fruit.php?id=gzwsH265_4000
 
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视频道",河北卫视
-http://192.168.1.1:7088/udp/239.45.1.44:5140
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001229/index.m3u8?
 
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视频道",黑龙江卫视
 http://192.168.1.10/fruit.php?id=hljwsH265_4000
@@ -151,7 +142,7 @@ http://192.168.1.10/fruit.php?id=jlwsH265_4000
 http://192.168.1.10/fruit.php?id=nmgws_4000
 
 #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视频道",宁夏卫视
-http://192.168.1.1:7088/udp/239.45.1.213:5140#http://192.168.1.1:7088/udp/239.45.3.176:5140
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001074/1.m3u8
 
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视频道",山西卫视
 http://192.168.1.10/fruit.php?id=sxws42_4000
@@ -166,10 +157,10 @@ http://192.168.1.10/fruit.php?id=scwsH265_4000
 http://192.168.1.10/fruit.php?id=ynws_4000
 
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视频道",新疆卫视
-http://192.168.1.1:7088/udp/239.45.1.116:5140#http://192.168.1.1:7088/udp/239.45.3.142:5140
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001065/1.m3u8
 
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视频道",青海卫视
-http://192.168.1.1:7088/udp/239.45.1.230:5140#http://192.168.1.1:7088/udp/239.45.3.172:5140
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001082/1.m3u8
 
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视频道",兵团卫视
 http://192.168.1.10/fruit.php?id=btws_4000
@@ -178,7 +169,7 @@ http://192.168.1.10/fruit.php?id=btws_4000
 http://192.168.1.10/fruit.php?id=kbwsH264_2000
 
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视频道",西藏卫视
-http://192.168.1.10/fruit.php?id=xzwsH264_2000
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001072/1.m3u8
 
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视频道",三沙卫视
 http://192.168.1.1:7088/udp/239.45.1.82:5140
@@ -216,9 +207,6 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8?
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海频道",新视觉-蜀小果
 http://192.168.1.10/fruit.php?id=ycxsjH265_4000
 
-#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海频道",新视觉-bestv
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xsjhd/4000000/mnf.m3u8
-
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海频道",劲爆体育-蜀小果
 http://192.168.1.10/fruit.php?id=lqhxjcHDH265_4000
 
@@ -238,7 +226,7 @@ http://192.168.1.10/fruit.php?id=qjs-HDH265_4000
 http://192.168.1.10/fruit.php?id=shssH265_4000
 
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海频道",游戏风云
-http://192.168.1.1:7088/udp/239.45.3.131:5140
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001192/index.m3u8?
 
 #EXTINF:-1 tvg-id="2060" tvg-name="峨嵋电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/emeidianying.png" group-title="电影剧集",四川峨嵋电影
 http://192.168.1.10/fruit.php?id=emdygqH265_4000
@@ -272,9 +260,6 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226825/index.m3u
 
 #EXTINF:-1 group-title="电影剧集",4KUHD超高清
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8#http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-
-#EXTINF:-1 group-title="电影剧集",4K测试
-http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
 
 #EXTINF:-1 group-title="电影剧集",广东综艺4K
 http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=wVRSB5sT4uZUUEAhmMSj2g%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=GDZYHD4K_38000
@@ -358,7 +343,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226238/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226241/2/index.m3u8
 
 #EXTINF:-1 group-title="体育赛事",BestV-Live-1
-http://192.168.1.1:7088/udp/239.45.3.139:5140
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001152/1.m3u8
 
 #EXTINF:-1 group-title="体育赛事",BestV-Live-2
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226568/index.m3u8?servicetype=1
@@ -372,8 +357,8 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227314/index.m3u
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="科教记录",金鹰纪实
 http://192.168.1.10/fruit.php?id=jyjsHDH265_4000
 
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="科教记录",北京冬奥纪实
-http://192.168.1.1:7088/udp/239.45.1.14:5140
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="科教记录",北京纪实科教
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001231/index.m3u8?
 
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="科教记录",求索记录-谷豆
 http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=wVRSB5sT4uZUUEAhmMSj2g%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=QSJLHD_7000
@@ -396,17 +381,11 @@ http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=wVRSB5sT4uZUUEAhmMSj
 #EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png" group-title="科教记录",求索动物
 http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
 
-#EXTINF:-1 group-title="科教记录",中国天气
-http://192.168.1.1:7088/udp/239.45.1.47:5140
-
-#EXTINF:-1 group-title="科教记录",陶瓷
-http://192.168.1.1:7088/udp/239.45.3.50:5140
-
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="科教记录",中数茶频道
-http://192.168.1.1:7088/udp/239.45.3.12:5140
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8?
 
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="少儿频道",哈哈炫动
-http://192.168.1.1:7088/udp/239.45.1.55:5140
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="科教记录",中数快乐垂钓
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8?
 
 #EXTINF:-1 tvg-id="238" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
