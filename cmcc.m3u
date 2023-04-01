@@ -112,10 +112,10 @@ http://192.168.1.10/fruit.php?id=cqwsH265_4000
 http://192.168.1.10/fruit.php?id=dnwsfjwsH265_4000
 
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视频道",甘肃卫视
-http://192.168.1.10/fruit.php?id=gsws_4000
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001298/1.m3u8
 
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视频道",广西卫视
-http://192.168.1.10/fruit.php?id=gxws_4000
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001224/1.m3u8
 
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视频道",贵州卫视
 http://192.168.1.10/fruit.php?id=gzwsH265_4000
@@ -127,7 +127,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001229/index.m3u8?
 http://192.168.1.10/fruit.php?id=hljwsH265_4000
 
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视频道",河南卫视
-http://192.168.1.10/fruit.php?id=hnws35_4000
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001222/1.m3u8#http://192.168.1.10/fruit.php?id=hnws35_4000
 
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视频道",湖北卫视
 http://192.168.1.10/fruit.php?id=hbwsH265_4000
@@ -154,7 +154,7 @@ http://192.168.1.10/fruit.php?id=sxws_4000
 http://192.168.1.10/fruit.php?id=scwsH265_4000
 
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视频道",云南卫视
-http://192.168.1.10/fruit.php?id=ynws_4000
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001223/1.m3u8
 
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视频道",新疆卫视
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001065/1.m3u8
