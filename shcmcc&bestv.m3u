@@ -216,17 +216,11 @@ http://192.168.1.10/fruit.php?id=lqhxjcHDH265_4000
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海频道",劲爆体育-bestv
 http://192.168.1.10:5678/bestv.php?id=jbtyhd8m/8000000
 
-#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海频道",劲爆体育-谷豆
-http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=wVRSB5sT4uZUUEAhmMSj2g%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=jinbaotiyuHD_7000
-
 #EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海频道",魅力足球-蜀小果
 http://192.168.1.10/fruit.php?id=mlyy_4000
 
 #EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海频道",魅力足球-bestv
 http://192.168.1.10:5678/bestv.php?id=mlyyhd8m/8000000
-
-#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海频道",魅力足球-谷豆
-http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=wVRSB5sT4uZUUEAhmMSj2g%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=meiliyinyueHD_7000
 
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海频道",乐游
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001200/index.m3u8?
@@ -271,7 +265,7 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226825/index.m3u
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8#http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 
 #EXTINF:-1 group-title="电影剧集",广东综艺4K
-http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=wVRSB5sT4uZUUEAhmMSj2g%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=GDZYHD4K_38000
+http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=75AS6hR%2FiLEAkFxYONxcew%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=GDZYHD4K_38000
 
 #EXTINF:-1 group-title="电影剧集",CBN幸福剧场
 http://192.168.1.10/fruit.php?id=xfjc_4000
@@ -319,7 +313,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225716/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226261/2/index.m3u8
 
 #EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="体育赛事",广东体育
-http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=wVRSB5sT4uZUUEAhmMSj2g%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=1413
+http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=75AS6hR%2FiLEAkFxYONxcew%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=1413
 
 #EXTINF:-1 group-title="体育赛事",咪咕体育1
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226240/2/index.m3u8
@@ -370,22 +364,13 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8?
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001231/index.m3u8?
 
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="科教记录",求索记录-谷豆
-http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=wVRSB5sT4uZUUEAhmMSj2g%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=QSJLHD_7000
-
-#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.png" group-title="科教记录",求索科学-谷豆
-http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=wVRSB5sT4uZUUEAhmMSj2g%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=qiusuokexueHD_7000
+http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=75AS6hR%2FiLEAkFxYONxcew%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=QSJLHD_7000
 
 #EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.png" group-title="科教记录",求索科学
 http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
 
-#EXTINF:-1,tvg-id="浙江求索生活" tvg-name="浙江求索生活" tvg-logo="https://epg.112114.xyz/logo/浙江求索生活.png" group-title="科教记录",求索生活-谷豆
-http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=wVRSB5sT4uZUUEAhmMSj2g%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=1612
-
 #EXTINF:-1,tvg-id="浙江求索生活" tvg-name="浙江求索生活" tvg-logo="https://epg.112114.xyz/logo/浙江求索生活.png" group-title="科教记录",求索生活
 http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
-
-#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png" group-title="科教记录",求索动物-谷豆
-http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=wVRSB5sT4uZUUEAhmMSj2g%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=QSDWHD_7000
 
 #EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png" group-title="科教记录",求索动物
 http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
@@ -406,16 +391,16 @@ http://192.168.1.10/fruit.php?id=test2_4000#http://[2409:8c02:21c:60::2f]/live2.
 http://192.168.1.10/jdjylt.php?tvid=fhxg
 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",翡翠台
-http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=wVRSB5sT4uZUUEAhmMSj2g%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=1350_4500
+http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=75AS6hR%2FiLEAkFxYONxcew%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=1350_4500
 
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="港澳台",明珠台
-http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=wVRSB5sT4uZUUEAhmMSj2g%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=1351_4500
+http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=75AS6hR%2FiLEAkFxYONxcew%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=1351_4500
 
 #EXTINF:-1,tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="港澳台",星空卫视
-http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=wVRSB5sT4uZUUEAhmMSj2g%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=xingkong_1500
+http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=75AS6hR%2FiLEAkFxYONxcew%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=xingkong_1500
 
 #EXTINF:-1,tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://epg.112114.xyz/logo/澳亚卫视.png" group-title="港澳台",澳亚卫视
-http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=wVRSB5sT4uZUUEAhmMSj2g%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=aoya_1500
+http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=75AS6hR%2FiLEAkFxYONxcew%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=aoya_1500
 
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2
 https://hkanime:hkanime@cdn.hklive.tv/xxxx2/82/index.m3u8
