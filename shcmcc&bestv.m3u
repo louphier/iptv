@@ -64,7 +64,7 @@ http://192.168.1.10/fruit.php?id=ys4Kcq_2000
 http://192.168.1.10/cache.php
 
 #EXTINF:-1 tvg-id="18" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="中央电视",CGTN
-http://192.168.1.10/fruit.php?id=CGTN_4000
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
 
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="中央电视",中国教育-1
 http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001020/index.m3u8?
