@@ -166,7 +166,7 @@ http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001223/1.m3u8
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001065/1.m3u8
 
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视频道",青海卫视
-http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001082/1.m3u8
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221227554/1.m3u8
 
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视频道",兵团卫视
 http://192.168.1.10/fruit.php?id=btws_4000
