@@ -237,6 +237,9 @@ http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001199/index.m3u8?
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海频道",游戏风云
 http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001192/index.m3u8?
 
+#EXTINF:-1 group-title="电影剧集",1905电影
+http://192.168.1.10:5678/1905.php?id=1905dy
+
 #EXTINF:-1 tvg-id="2060" tvg-name="峨嵋电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/emeidianying.png" group-title="电影剧集",四川峨嵋电影
 http://192.168.1.10/fruit.php?id=emdygqH265_4000
 
