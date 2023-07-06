@@ -400,7 +400,7 @@ http://192.168.1.10/fruit.php?id=test2_4000#http://[2409:8c02:21c:60::2f]/live2.
 http://192.168.1.10/jdjylt.php?tvid=fhxg
 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",翡翠台
-http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=75AS6hR%2FiLEAkFxYONxcew%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=1350_4500
+http://192.168.1.10:5678/tvb.php?id=0&normal=1
 
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="港澳台",明珠台
 http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=75AS6hR%2FiLEAkFxYONxcew%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=1351_4500
@@ -412,7 +412,7 @@ http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=75AS6hR%2FiLEAkFxYON
 http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=75AS6hR%2FiLEAkFxYONxcew%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=aoya_1500
 
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2
-https://hkanime:hkanime@cdn.hklive.tv/xxxx2/82/index.m3u8
+http://192.168.1.10:5678/tvb.php?id=1&normal=1
 
 #EXTINF:-1 group-title="港澳台",港台電視31
 https://hkanime:hkanime@cdn.hklive.tv/xxxx2/31/index.m3u8
