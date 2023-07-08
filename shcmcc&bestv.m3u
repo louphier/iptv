@@ -277,16 +277,16 @@ http://[2409:8087:5a0:1021:1401::3]:6410/000000001000/-/1.m3u8?channel-id=ystenl
 http://[2409:8087:5a0:1021:1401::3]:6410/000000001000/-/1.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3
 
 #EXTINF:-1 group-title="电影剧集",CBN幸福剧场
-http://192.168.1.10/fruit.php?id=xfjc_4000
+http://192.168.1.10/fruit.php?id=xfjc
 
 #EXTINF:-1 group-title="电影剧集",CBN每日影院
-http://192.168.1.10/fruit.php?id=mryy_4000
+http://192.168.1.10/fruit.php?id=mryy
 
 #EXTINF:-1 group-title="电影剧集",CBN幸福娱乐
-http://192.168.1.10/fruit.php?id=xfyl_4000
+http://192.168.1.10/fruit.php?id=xfyl
 
 #EXTINF:-1 group-title="电影剧集",CBN风尚生活
-http://192.168.1.10/fruit.php?id=fssh_4000
+http://192.168.1.10/fruit.php?id=fssh
 
 #EXTINF:-1 group-title="电影剧集",芒果华语电影
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1
