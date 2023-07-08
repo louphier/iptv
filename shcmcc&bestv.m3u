@@ -270,11 +270,8 @@ http://[2409:8087:5a0:1021:1401::3]:6410/000000001000/-/1.m3u8?channel-id=ystenl
 #EXTINF:-1 group-title="电影剧集",黑莓动画
 http://[2409:8087:5a0:1021:1401::3]:6410/000000001000/-/1.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3
 
-#EXTINF:-1 group-title="电影剧集",4KUHD超高清
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-
-#EXTINF:-1 group-title="电影剧集",4KUHD超高清
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8#http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 group-title="电影剧集",4K修复
+http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8?icpid=3&RTS=1659435587&from=1&hms_devid=2115&vqe=3
 
 #EXTINF:-1 group-title="电影剧集",CBN幸福剧场
 http://192.168.1.10/fruit.php?id=xfjc_4000
@@ -299,21 +296,6 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226692/index.m3u
 
 #EXTINF:-1 group-title="电影剧集",芒果综艺4K
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
-
-#EXTINF:-1 group-title="电影剧集",虎牙放映厅
-http://36.99.180.171/txdirect.hls.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.flv
-
-#EXTINF:-1 group-title="电影剧集",虎牙影院
-http://36.99.180.171/txdirect.hls.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.flv
-
-#EXTINF:-1 group-title="电影剧集",虎牙八点档
-http://36.99.180.171/txdirect.hls.huya.com/src/1524439855-1524439855-6547419321943982080-3049003166-10057-A-0-1.flv
-
-#EXTINF:-1 group-title="电影剧集",IPTV1
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225716/2/index.m3u8
-
-#EXTINF:-1 group-title="电影剧集",IPTV2
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226261/2/index.m3u8
 
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="科教记录",金鹰纪实
 http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001230/index.m3u8?
@@ -533,7 +515,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225713/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226202/2/index.m3u8
 
 #EXTINF:-1 group-title="NewTV系列",NewTV潮妈辣婆
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225708/2/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw1705588260_46164741/ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8?icpid=3&RTS=1669704601&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 
 #EXTINF:-1 group-title="NewTV系列",NewTV精品大剧
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225714/2/index.m3u8
