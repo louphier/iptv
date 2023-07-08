@@ -261,6 +261,12 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="电影剧集",CHC家庭影院
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+#EXTINF:-1 group-title="电影剧集",黑莓电影
+http://[2409:8087:5a0:1021:1401::3]:6410/000000001000/-/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=3
+
+#EXTINF:-1 group-title="电影剧集",黑莓动画
+http://[2409:8087:5a0:1021:1401::3]:6410/000000001000/-/1.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3
+
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="电影剧集",CHC高清电影-蜀小果
 http://192.168.1.10/fruit.php?id=lnwsCHC-HDH265_4000#http://[2409:8c02:21c:60::2f]/live2.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8
 
@@ -269,24 +275,6 @@ http://192.168.1.10/fruit.php?id=wqCHCdzdyH265_4000#http://[2409:8c02:21c:60::2f
 
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="电影剧集",CHC家庭影院-蜀小果
 http://192.168.1.10/fruit.php?id=jbtygqCHCjtyyH265_4000#http://[2409:8c02:21c:60::2f]/live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
-
-#EXTINF:-1 group-title="电影剧集",黑莓电影
-http://[2409:8087:5a0:1021:1401::3]:6410/000000001000/-/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="电影剧集",黑莓动画
-http://[2409:8087:5a0:1021:1401::3]:6410/000000001000/-/1.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="电影剧集",芒果华语电影
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1
-
-#EXTINF:-1 group-title="电影剧集",芒果欧美电影
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
-
-#EXTINF:-1 group-title="电影剧集",芒果TV独播
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
-
-#EXTINF:-1 group-title="电影剧集",芒果综艺4K
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="科教记录",金鹰纪实
 http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001230/index.m3u8?
@@ -377,51 +365,6 @@ http://60.251.33.252:18541/.m3u8
 
 #EXTINF:-1 tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="港澳台",纬来育乐台
 http://123.51.229.65:18541/.m3u8
-
-#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="体育赛事",广东体育
-http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=75AS6hR%2FiLEAkFxYONxcew%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=1413
-
-#EXTINF:-1 group-title="体育赛事",咪咕体育1
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226240/2/index.m3u8
-
-#EXTINF:-1 group-title="体育赛事",咪咕体育2
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226243/2/index.m3u8
-
-#EXTINF:-1 group-title="体育赛事",咪咕体育3
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227107/index.m3u8?servicetype=1
-
-#EXTINF:-1 group-title="体育赛事",咪咕体育4
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227158/index.m3u8?servicetype=1
-
-#EXTINF:-1 group-title="体育赛事",咪咕体育5
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227189/index.m3u8?servicetype=1
-
-#EXTINF:-1 group-title="体育赛事",咪咕体育6
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227047/index.m3u8?servicetype=1
-
-#EXTINF:-1 group-title="体育赛事",咪咕体育7
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227228/index.m3u8?servicetype=1
-
-#EXTINF:-1 group-title="体育赛事",咪咕视频1
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226235/2/index.m3u8
-
-#EXTINF:-1 group-title="体育赛事",咪咕视频2
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226238/2/index.m3u8
-
-#EXTINF:-1 group-title="体育赛事",咪咕视频3
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226241/2/index.m3u8
-
-#EXTINF:-1 group-title="体育赛事",BestV-Live-1
-http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001152/1.m3u8
-
-#EXTINF:-1 group-title="体育赛事",BestV-Live-2
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226568/index.m3u8?servicetype=1
-
-#EXTINF:-1 group-title="体育赛事",BestV超级体育2
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226895/index.m3u8?servicetype=1
-
-#EXTINF:-1 group-title="体育赛事",咪咕健身HD-8M
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227314/index.m3u8?servicetype=1
 
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视风云",CCTV风云足球
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8#http://111.20.33.70/PLTV/88888893/224/3221226984/index.m3u8
@@ -575,3 +518,48 @@ http://192.168.1.10/youtube.php?id=ctv
 
 #EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="youtube",France 24
 http://192.168.1.10/youtube.php?id=fr24
+
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="体育赛事",广东体育
+http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=75AS6hR%2FiLEAkFxYONxcew%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=1413
+
+#EXTINF:-1 group-title="体育赛事",咪咕体育1
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226240/2/index.m3u8
+
+#EXTINF:-1 group-title="体育赛事",咪咕体育2
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226243/2/index.m3u8
+
+#EXTINF:-1 group-title="体育赛事",咪咕体育3
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227107/index.m3u8?servicetype=1
+
+#EXTINF:-1 group-title="体育赛事",咪咕体育4
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227158/index.m3u8?servicetype=1
+
+#EXTINF:-1 group-title="体育赛事",咪咕体育5
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227189/index.m3u8?servicetype=1
+
+#EXTINF:-1 group-title="体育赛事",咪咕体育6
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227047/index.m3u8?servicetype=1
+
+#EXTINF:-1 group-title="体育赛事",咪咕体育7
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227228/index.m3u8?servicetype=1
+
+#EXTINF:-1 group-title="体育赛事",咪咕视频1
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226235/2/index.m3u8
+
+#EXTINF:-1 group-title="体育赛事",咪咕视频2
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226238/2/index.m3u8
+
+#EXTINF:-1 group-title="体育赛事",咪咕视频3
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226241/2/index.m3u8
+
+#EXTINF:-1 group-title="体育赛事",BestV-Live-1
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001152/1.m3u8
+
+#EXTINF:-1 group-title="体育赛事",BestV-Live-2
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226568/index.m3u8?servicetype=1
+
+#EXTINF:-1 group-title="体育赛事",BestV超级体育2
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226895/index.m3u8?servicetype=1
+
+#EXTINF:-1 group-title="体育赛事",咪咕健身HD-8M
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227314/index.m3u8?servicetype=1
