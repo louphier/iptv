@@ -61,9 +61,6 @@ http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001241/index.m3u8?
 http://192.168.1.10/fruit.php?id=ys4Kcq_2000
 
 #EXTINF:-1 group-title="中央电视",CCTV8K
-http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
-
-#EXTINF:-1 group-title="中央电视",CCTV8K-HDR
 http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw2045655319_-2135022099/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1674373571&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 
 #EXTINF:-1 tvg-id="18" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="中央电视",CGTN
@@ -210,23 +207,14 @@ http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001203/index.m3u8?
 #EXTINF:-1 group-title="上海频道",东方财经
 http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001318/index.m3u8?
 
-#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海频道",新视觉-蜀小果
+#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海频道",新视觉
 http://192.168.1.10/fruit.php?id=ycxsjH265_4000
 
-#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海频道",新视觉-bestv
-http://192.168.1.10:5678/bestv.php?id=xsjhd8m/8000000
-
-#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海频道",劲爆体育-蜀小果
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海频道",劲爆体育
 http://192.168.1.10/fruit.php?id=lqhxjcHDH265_4000
 
-#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海频道",劲爆体育-bestv
-http://192.168.1.10:5678/bestv.php?id=jbtyhd8m/8000000
-
-#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海频道",魅力足球-蜀小果
+#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海频道",魅力足球
 http://192.168.1.10/fruit.php?id=mlyy_4000
-
-#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海频道",魅力足球-bestv
-http://192.168.1.10:5678/bestv.php?id=mlyyhd8m/8000000
 
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海频道",乐游
 http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001200/index.m3u8?
@@ -236,6 +224,21 @@ http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001199/index.m3u8?
 
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海频道",游戏风云
 http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001192/index.m3u8?
+
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海频道",哈哈炫动
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001232/index.m3u8?
+
+#EXTINF:-1 group-title="上海频道",动漫秀场
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001196/index.m3u8?
+
+#EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海频道",七彩戏剧
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001308/index.m3u8?
+
+#EXTINF:-1 group-title="上海频道",法制天地
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001195/index.m3u8?
+
+#EXTINF:-1 group-title="上海频道",金色学堂
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001194/index.m3u8?
 
 #EXTINF:-1 group-title="电影剧集",1905电影
 http://192.168.1.10:5678/1905.php?id=1905dy
@@ -299,6 +302,27 @@ http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001234/index.m3u8?
 
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="科教记录",中数快乐垂钓
 http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001235/index.m3u8?
+
+#EXTINF:-1 group-title="BesTV",BesTV-Live-1
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001152/index.m3u8
+
+#EXTINF:-1 group-title="BesTV",BesTV-Live-2
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001153/index.m3u8
+
+#EXTINF:-1 group-title="BesTV",BesTV超级体育
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001154/index.m3u8
+
+#EXTINF:-1 group-title="BesTV",BesTV-Live-3
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001151/index.m3u8
+
+#EXTINF:-1 group-title="BesTV",BesTV-Live-4
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001150/index.m3u8
+
+#EXTINF:-1 group-title="BesTV",BesTV-Live-5
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001149/index.m3u8
+
+#EXTINF:-1 group-title="BesTV",BesTV-Live-6
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001148/index.m3u8
 
 #EXTINF:-1 tvg-id="238" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
 http://192.168.1.10/fruit.php?id=test1_4000#http://[2409:8c02:21c:60::2f]/live2.rxip.sc96655.com/live/test1_4000.m3u8
@@ -367,40 +391,40 @@ http://60.251.33.252:18541/.m3u8
 http://123.51.229.65:18541/.m3u8
 
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视风云",CCTV风云足球
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8#http://111.20.33.70/PLTV/88888893/224/3221226984/index.m3u8
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视风云",CCTV风云音乐
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="央视风云",CCTV第一剧场
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8 
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="央视风云",CCTV风云剧场
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视风云",CCTV世界地理
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="央视风云",CCTV怀旧剧场
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8 
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="央视风云",CCTV兵器科技
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8 
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="央视风云",CCTV女性时尚
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8 
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="央视风云",CCTV高尔夫网球
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8 
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="央视风云",CCTV台球
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8 
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 group-title="央视风云",CCTV电视指南
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8 
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 group-title="央视风云",CCTV文化精品
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8 
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 group-title="NewTV系列",NewTV精品体育
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw2797725038_-2054878207/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8?icpid=3&RTS=1669705693&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
@@ -518,48 +542,3 @@ http://192.168.1.10/youtube.php?id=ctv
 
 #EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="youtube",France 24
 http://192.168.1.10/youtube.php?id=fr24
-
-#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="体育赛事",广东体育
-http://192.168.1.10:5678/gudou.php?phone=18021031985&ptoken=75AS6hR%2FiLEAkFxYONxcew%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=1413
-
-#EXTINF:-1 group-title="体育赛事",咪咕体育1
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226240/2/index.m3u8
-
-#EXTINF:-1 group-title="体育赛事",咪咕体育2
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226243/2/index.m3u8
-
-#EXTINF:-1 group-title="体育赛事",咪咕体育3
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227107/index.m3u8?servicetype=1
-
-#EXTINF:-1 group-title="体育赛事",咪咕体育4
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227158/index.m3u8?servicetype=1
-
-#EXTINF:-1 group-title="体育赛事",咪咕体育5
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227189/index.m3u8?servicetype=1
-
-#EXTINF:-1 group-title="体育赛事",咪咕体育6
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227047/index.m3u8?servicetype=1
-
-#EXTINF:-1 group-title="体育赛事",咪咕体育7
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227228/index.m3u8?servicetype=1
-
-#EXTINF:-1 group-title="体育赛事",咪咕视频1
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226235/2/index.m3u8
-
-#EXTINF:-1 group-title="体育赛事",咪咕视频2
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226238/2/index.m3u8
-
-#EXTINF:-1 group-title="体育赛事",咪咕视频3
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226241/2/index.m3u8
-
-#EXTINF:-1 group-title="体育赛事",BestV-Live-1
-http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001152/1.m3u8
-
-#EXTINF:-1 group-title="体育赛事",BestV-Live-2
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226568/index.m3u8?servicetype=1
-
-#EXTINF:-1 group-title="体育赛事",BestV超级体育2
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226895/index.m3u8?servicetype=1
-
-#EXTINF:-1 group-title="体育赛事",咪咕健身HD-8M
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227314/index.m3u8?servicetype=1
