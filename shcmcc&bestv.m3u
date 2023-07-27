@@ -337,7 +337,7 @@ http://192.168.1.10/fruit.php?id=test1_4000#http://[2409:8c02:21c:60::2f]/live2.
 http://192.168.1.10/fruit.php?id=test2_4000#http://[2409:8c02:21c:60::2f]/live2.rxip.sc96655.com/live/test2_4000.m3u8
 
 #EXTINF:-1 tvg-id="240" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
-http://192.168.1.10/jdjylt.php?tvid=fhxg
+http://[2409:8087:2001:20:2800:0:df6e:eb1c]/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",翡翠台
 http://192.168.1.10:5678/tvb.php?id=0&normal=1
