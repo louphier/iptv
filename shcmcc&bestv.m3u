@@ -208,13 +208,13 @@ http://192.168.1.10:5678/fruit.php?id=lqhxjcHDH265_4000
 http://192.168.1.10:5678/fruit.php?id=mlyy_4000
 
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海频道",新视觉-bestv
-http://192.168.1.10:5678/bestv.php?id=xsjhd8m/8000000
+http://192.168.1.10:5678/bestvnew.php?id=xsjhd8m/8000000
 
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海频道",劲爆体育-bestv
-http://192.168.1.10:5678/bestv.php?id=jbtyhd8m/8000000
+http://192.168.1.10:5678/bestvnew.php?id=jbtyhd8m/8000000
 
 #EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海频道",魅力足球-bestv
-http://192.168.1.10:5678/bestv.php?id=mlyyhd8m/8000000
+http://192.168.1.10:5678/bestvnew.php?id=mlyyhd8m/8000000
 
 #EXTINF:-1 group-title="上海频道",上海教育台
 http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001268/1.m3u8?
