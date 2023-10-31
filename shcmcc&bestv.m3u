@@ -58,7 +58,7 @@ http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001258/index.m3u8?
 http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001241/index.m3u8?
 
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中央电视",CCTV4K超高清
-http://192.168.1.10:5678/fruit.php?id=ys4Kcq_2000
+http://192.168.1.10:5678/bestv.php?id=cctv4k
 
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中央电视",CCTV4K-PHP
 http://192.168.1.10:5678/cctv4k2.php
@@ -271,7 +271,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3
 http://192.168.1.10:5678/fruit.php?id=emdy4k_8000
 
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="电影剧集",欢笑剧场UHD
-http://192.168.1.10:5678/fruit.php?id=hxjc-4k_8000
+http://192.168.1.10:5678/bestv.php?id=hxjc4k
 
 #EXTINF:-1 group-title="电影剧集",4K修复
 http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8?icpid=3&RTS=1659435587&from=1&hms_devid=2115&vqe=3
