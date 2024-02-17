@@ -210,24 +210,6 @@ http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001018/1.m3u8?
 #EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海频道",上视外语
 http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001128/index.m3u8?
 
-#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海频道",新视觉
-http://192.168.1.10:5678/fruit.php?id=ycxsjH265_4000
-
-#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海频道",劲爆体育
-http://192.168.1.10:5678/fruit.php?id=lqhxjcHDH265_4000
-
-#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海频道",魅力足球
-http://192.168.1.10:5678/fruit.php?id=mlyy_4000
-
-#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海频道",新视觉-bestv
-http://192.168.1.10:5678/bestvnew.php?id=xsjhd8m/8000000
-
-#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海频道",劲爆体育-bestv
-http://192.168.1.10:5678/bestvnew.php?id=jbtyhd8m/8000000
-
-#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海频道",魅力足球-bestv
-http://192.168.1.10:5678/bestvnew.php?id=mlyyhd8m/8000000
-
 #EXTINF:-1 group-title="上海频道",上海教育台
 http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001268/1.m3u8?
 
@@ -261,6 +243,24 @@ http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001195/index.m3u8?
 #EXTINF:-1 group-title="上海频道",金色学堂
 http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001194/index.m3u8?
 
+#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海频道",新视觉
+http://192.168.1.10:5678/fruit.php?id=ycxsjH265_4000
+
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海频道",劲爆体育
+http://192.168.1.10:5678/fruit.php?id=lqhxjcHDH265_4000
+
+#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海频道",魅力足球
+http://192.168.1.10:5678/fruit.php?id=mlyy_4000
+
+#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海频道",新视觉-bestv
+http://192.168.1.10:5678/bestvnew.php?id=xsjhd8m/8000000
+
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海频道",劲爆体育-bestv
+http://192.168.1.10:5678/bestvnew.php?id=jbtyhd8m/8000000
+
+#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海频道",魅力足球-bestv
+http://192.168.1.10:5678/bestvnew.php?id=mlyyhd8m/8000000
+
 #EXTINF:-1 group-title="电影剧集",1905电影
 http://192.168.1.10:5678/1905.php?id=1905dy
 
@@ -276,9 +276,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="电影剧集",CHC家庭影院
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 group-title="电影剧集",4K超高清电影
-http://192.168.1.10:5678/fruit.php?id=emdy4k_8000
-
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="电影剧集",欢笑剧场UHD
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8
 
@@ -292,16 +289,19 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000003000004748/index.
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 
 #EXTINF:-1 group-title="电影剧集",黑莓电影
-ttp://[2409:8087:2001:20:2800:0:df6e:eb04]:80/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
+http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 
 #EXTINF:-1 group-title="电影剧集",黑莓动画
 http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+
+#EXTINF:-1 group-title="电影剧集",4K超高清电影
+http://192.168.1.10:5678/fruit.php?id=emdy4k_8000
 
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="科教记录",金鹰纪实
 http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001230/index.m3u8?
 
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="科教记录",北京纪实科教
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001231/index.m3u8?
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
 
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="科教记录",求索记录
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
@@ -452,18 +452,6 @@ http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000032106/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕",咪咕直播-2-4K
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-
-#EXTINF:-1 tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="港澳台",纬来育乐台
-rtmp://59.124.75.150/sat/tv701
-
-#EXTINF:-1 tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="港澳台",纬来育乐台
-rtmp://59.124.75.138:1935/sat/tv701
-
-#EXTINF:-1 tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="港澳台",纬来育乐台
-http://60.251.33.252:18541/.m3u8
-
-#EXTINF:-1 tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="港澳台",纬来育乐台
-http://123.51.229.65:18541/.m3u8
 
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视风云",CCTV风云足球
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -671,39 +659,3 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000130630/index.
 
 #EXTINF:-1 group-title="iHOT系列",爱院线
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
-
-#EXTINF:-1 tvg-id="239" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="youtube",凤凰资讯
-http://192.168.1.10/ytb.php?id=pinhfr&q=301
-
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="youtube",CGTN
-http://192.168.1.10/youtube.php?id=cgtnhfr&q=301
-
-#EXTINF:-1 group-title="youtube",中天新闻台
-http://192.168.1.10/youtube.php?id=cti
-
-#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="youtube",东森新闻台
-http://192.168.1.10/youtube.php?id=ebc
-
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="youtube",民视新闻台
-http://192.168.1.10/youtube.php?id=ftv
-
-#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="youtube",三立新闻台
-http://192.168.1.10/youtube.php?id=set
-
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="youtube",TVBS新闻台
-http://192.168.1.10/youtube.php?id=tvbs
-
-#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="youtube",东森财经新闻台
-http://192.168.1.10/youtube.php?id=ebcf
-
-#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="youtube",台视新闻台
-http://192.168.1.10/youtube.php?id=ttv
-
-#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube",寰宇新闻
-http://192.168.1.10/youtube.php?id=gntv
-
-#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="youtube",中视新闻台
-http://192.168.1.10/youtube.php?id=ctv
-
-#EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="youtube",France 24
-http://192.168.1.10/youtube.php?id=fr24
