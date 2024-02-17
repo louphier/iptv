@@ -245,7 +245,7 @@ http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001308/index.m3u8?
 #EXTINF:-1 group-title="上海频道",法制天地
 http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001195/index.m3u8?
 
-#EXTINF:-1 tvg-id="jsxt" tvg-name="金色学堂" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jsxt.png" roup-title="上海频道",金色学堂
+#EXTINF:-1 tvg-id="jsxt" tvg-name="金色学堂" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jsxt.png" group-title="上海频道",金色学堂
 http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001194/index.m3u8?
 
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海频道",新视觉
