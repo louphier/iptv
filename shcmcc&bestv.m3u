@@ -215,8 +215,8 @@ http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001268/1.m3u8?
 #EXTINF:-1 tvg-id="dsjc" tvg-name="都市剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/dsjc.png" group-title="上海频道",都市剧场
 http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001203/index.m3u8?
 
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海频道",欢笑剧场UHD
-http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海频道",欢笑剧场
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001193/index.m3u8
 
 #EXTINF:-1 group-title="上海频道",东方财经
 http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001318/index.m3u8?
@@ -348,25 +348,37 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
 #EXTINF:-1 group-title="BesTV",BesTV-Live-1
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001152/index.m3u8
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001148/index.m3u8
 
 #EXTINF:-1 group-title="BesTV",BesTV-Live-2
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001153/index.m3u8
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001149/index.m3u8
 
 #EXTINF:-1 group-title="BesTV",BesTV-Live-3
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001154/index.m3u8
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001150/index.m3u8
 
 #EXTINF:-1 group-title="BesTV",BesTV-Live-4
 http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001151/index.m3u8
 
 #EXTINF:-1 group-title="BesTV",BesTV-Live-5
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001150/index.m3u8
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001152/index.m3u8
 
 #EXTINF:-1 group-title="BesTV",BesTV-Live-6
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001149/index.m3u8
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001153/index.m3u8
 
 #EXTINF:-1 group-title="BesTV",BesTV-Live-7
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001148/index.m3u8
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001154/index.m3u8
+
+#EXTINF:-1 group-title="BesTV",BesTV-Live-8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001359/index.m3u8
+
+#EXTINF:-1 group-title="BesTV",BesTV-Live-9
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001378/index.m3u8
+
+#EXTINF:-1 group-title="BesTV",BesTV-Live-10
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001388/index.m3u8
+
+#EXTINF:-1 group-title="BesTV",BesTV-Live-11
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001398/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕",咪咕直播-1
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
