@@ -63,7 +63,7 @@ http://192.168.1.10:5678/ysp2.php?id=cctv4k_10m
 http://192.168.1.10:5678/cctv4k2.php
 
 #EXTINF:-1 tvg-id="A20" tvg-name="CCTV8K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV8K.png" group-title="中央电视",CCTV8K
-https://tv.cry33.com/ys4k.php?id=8k
+http://192.168.1.10:5678/ysp.php?id=cctv8k
 
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8.png" group-title="中央电视",重温经典
 http://120.222.228.151/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
