@@ -57,22 +57,22 @@ http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001258/index.m3u8?
 http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001241/index.m3u8?
 
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中央电视",CCTV4K
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000382/index.m3u8?IASHttpSessionId=
+http://192.168.1.10:35455/gaoma/cctv4k.m3u8
 
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中央电视",CCTV4K-HDR
 http://192.168.1.10:5678/cctv4k2.php
 
 #EXTINF:-1 tvg-id="A20" tvg-name="CCTV8K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV8K.png" group-title="中央电视",CCTV8K
-http://192.168.1.10:5000/ysp/cctv8k
+http://192.168.1.10:35455/gaoma/cctv8k_36m.m3u8
 
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8.png" group-title="中央电视",重温经典
-http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 
 #EXTINF:-1 tvg-id="18" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="中央电视",CGTN
 http://gslbserv.itv.cmvideo.cn:80/7745129417417101820/1.m3u8?channel-id=hnbblive&Contentid=7745129417417101820&livemode=1&stbId=3
 
 #EXTINF:-1 group-title="中央电视",CGTN记录
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000353/index.m3u8?IASHttpSessionId=
+http://192.168.1.10:35455/itv/7114647837765104058.m3u8?cdn=hnbblive
 
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="中央电视",中国教育-1
 http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001020/index.m3u8?
