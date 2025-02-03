@@ -18,7 +18,7 @@ http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001221/index.m3u8?
 http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001187/index.m3u8?
 
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中央电视",CCTV5+体育赛事
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.1.10:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
 
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="中央电视",CCTV6电影
 http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001188/index.m3u8?
