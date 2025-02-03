@@ -255,13 +255,13 @@ http://192.168.1.10:35455/itv/5000000002000029972.m3u8?cdn=bestzb
 http://192.168.1.10:35455/itv/5000000011000031207.m3u8?cdn=bestzb
 
 #EXTINF:-1 tvg-id="238" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
-http://192.168.1.10:5000/tptv/HD-10000k-1080P-fhchinese5s?type=proxy
+http://192.168.1.10:35455/rptv/HD-10000k-1080P-fhchinese5s.m3u8?license=cntv
 
 #EXTINF:-1 tvg-id="239" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
-http://192.168.1.10:5000/tptv/HD-10000k-1080P-fhzixun5s?type=proxy
+http://192.168.1.10:35455/rptv/HD-10000k-1080P-fhzixun5s.m3u8?license=cntv
 
 #EXTINF:-1 tvg-id="240" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
-http://192.168.1.10:5000/tptv/HD-10000k-1080P-fhhongkong5s?type=proxy
+http://192.168.1.10:35455/rptv/HD-10000k-1080P-fhhongkong5s.m3u8?license=cntv
 
 #EXTINF:-1 group-title="电影剧集",1905国内电影
 http://192.168.1.10:5678/19052.php?id=1905a
@@ -327,40 +327,40 @@ http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001234/index.m3u8?
 http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001235/index.m3u8?
 
 #EXTINF:-1 tvg-id="CCTVdszn" tvg-name="电视指南" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVdszn.png" group-title="央视风云",CCTV电视指南
-http://192.168.1.10:5000/tptv/G_DIANSHIZN-CQ?type=proxy
+http://192.168.1.10:35455/rptv/G_DIANSHIZN-CQ.m3u8?license=gitv
 
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="央视风云",CCTV兵器科技
-http://192.168.1.10:5000/tptv/G_BINGQIKJ-CQ?type=proxy
+http://192.168.1.10:35455/rptv/G_BINGQIKJ-CQ.m3u8?license=gitv
 
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视风云",CCTV风云足球
-http://192.168.1.10:5000/tptv/G_FENGSHANGZQ-CQ?type=proxy
+http://192.168.1.10:35455/rptv/G_FENGSHANGZQ-CQ.m3u8?license=gitv
 
 #EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="央视风云",CCTV高尔夫网球
-http://192.168.1.10:5000/tptv/G_CCTV-GOLF-CQ?type=proxy
+http://192.168.1.10:35455/rptv/G_CCTV-GOLF-CQ.m3u8?license=gitv
 
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="央视风云",CCTV台球
-http://192.168.1.10:5000/tptv/G_TAIQIU-CQ?type=proxy
+http://192.168.1.10:35455/rptv/G_TAIQIU-CQ.m3u8?license=gitv
 
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="央视风云",CCTV第一剧场
-http://192.168.1.10:5000/tptv/G_DIYIJC-CQ?type=proxy
+http://192.168.1.10:35455/rptv/G_DIYIJC-CQ.m3u8?license=gitv
 
 #EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="央视风云",CCTV风云剧场
-http://192.168.1.10:5000/tptv/G_FENGYUNJC-CQ?type=proxy
+http://192.168.1.10:35455/rptv/G_FENGYUNJC-CQ.m3u8?license=gitv
 
 #EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="央视风云",CCTV怀旧剧场
-http://192.168.1.10:5000/tptv/G_HUAIJIUJC-CQ?type=proxy
+http://192.168.1.10:35455/rptv/G_HUAIJIUJC-CQ.m3u8?license=gitv
 
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视风云",CCTV世界地理
-http://192.168.1.10:5000/tptv/G_SHIJIEDL-CQ?type=proxy
+http://192.168.1.10:35455/rptv/G_SHIJIEDL-CQ.m3u8?license=gitv
 
 #EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="央视风云",CCTV女性时尚
-http://192.168.1.10:5000/tptv/G_NVXINGSS-CQ?type=proxy
+http://192.168.1.10:35455/rptv/G_NVXINGSS-CQ.m3u8?license=gitv
 
 #EXTINF:-1 tvg-id="CCTVyswhjp" tvg-name="文化精品" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVyswhjp.png" group-title="央视风云",CCTV文化精品
-http://192.168.1.10:5000/tptv/G_CCTV-WENHUA-CQ?type=proxy
+http://192.168.1.10:35455/rptv/G_CCTV-WENHUA-CQ.m3u8?license=gitv
 
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视风云",CCTV风云音乐
-http://192.168.1.10:5000/tptv/G_FENGYUNYY-CQ?type=proxy
+http://192.168.1.10:35455/rptv/G_FENGYUNYY-CQ.m3u8?license=gitv
 
 #EXTINF:-1 tvg-id="CCTVyswsjk" tvg-name="卫生健康" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7.png" group-title="央视风云",CCTV卫生健康
 http://192.168.1.10:5678/ysp.php?id=wsjk
