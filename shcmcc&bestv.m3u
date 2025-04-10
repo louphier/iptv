@@ -66,13 +66,13 @@ http://192.168.1.10:5678/cctv4k2.php
 http://192.168.1.10:35455/gaoma/cctv8k_36m.m3u8
 
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8.png" group-title="中央电视",重温经典
-https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
+http://192.168.1.10:35455/bptv/10000100000000050000000003887494.m3u8
 
 #EXTINF:-1 tvg-id="18" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="中央电视",CGTN
-http://gslbserv.itv.cmvideo.cn:80/7745129417417101820/1.m3u8?channel-id=hnbblive&Contentid=7745129417417101820&livemode=1&stbId=3
+http://192.168.1.10:35455/gaoma/cgtnen.m3u8
 
 #EXTINF:-1 group-title="中央电视",CGTN记录
-http://192.168.1.10:35455/itv/7114647837765104058.m3u8?cdn=hnbblive
+http://192.168.1.10:35455/gaoma/cgtndoc.m3u8
 
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="中央电视",中国教育-1
 http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001020/index.m3u8?
@@ -268,6 +268,9 @@ http://192.168.1.10:5678/19052.php?id=1905a
 
 #EXTINF:-1 group-title="电影剧集",1905国外电影
 http://192.168.1.10:5678/19052.php?id=1905b
+
+#EXTINF:-1 group-title="电影剧集",北京IPTV-4K
+http://192.168.1.10:35455/bptv/10000100000000050000000003887500.m3u8
 
 #EXTINF:-1 group-title="电影剧集",Drama
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236208/index.m3u8
