@@ -18,7 +18,7 @@ http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001221/index.m3u8?
 http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001187/index.m3u8?
 
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中央电视",CCTV5+体育赛事
-http://192.168.1.10:35455/gaoma/cctv5p.m3u8
+http://192.168.1.10:35455/bptv/10000100000000050000000003870759.m3u8
 
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="中央电视",CCTV6电影
 http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001188/index.m3u8?
@@ -255,13 +255,13 @@ http://192.168.1.10:35455/itv/5000000002000029972.m3u8?cdn=bestzb
 http://192.168.1.10:35455/itv/5000000011000031207.m3u8?cdn=bestzb
 
 #EXTINF:-1 tvg-id="238" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
-http://192.168.1.10:35455/rptv/HD-10000k-1080P-fhchinese5s.m3u8?license=cntv
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 
 #EXTINF:-1 tvg-id="239" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
-http://192.168.1.10:35455/rptv/HD-10000k-1080P-fhzixun5s.m3u8?license=cntv
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 
 #EXTINF:-1 tvg-id="240" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
-http://192.168.1.10:35455/rptv/HD-10000k-1080P-fhhongkong5s.m3u8?license=cntv
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 #EXTINF:-1 group-title="电影剧集",1905国内电影
 http://192.168.1.10:5678/19052.php?id=1905a
@@ -282,10 +282,10 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236157/index.m3u8
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="电影剧集",CHC动作电影
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
+https://migu.188766.xyz/?migutoken=6eecd6e0fc1451d7aea8b5b6a7adf0fa&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
 
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="电影剧集",CHC家庭影院
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
+https://migu.188766.xyz/?migutoken=c62498f4101850da63ae688c878b8bc9&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2
 
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K"  tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="电影剧集",爱上4K
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
