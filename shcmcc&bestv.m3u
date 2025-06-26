@@ -227,6 +227,9 @@ http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001203/index.m3u8?
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海频道",欢笑剧场
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001193/index.m3u8
 
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海频道",欢笑剧场-4K
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001490/index.m3u8
+
 #EXTINF:-1 group-title="上海频道",东方财经
 http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001318/index.m3u8?
 
