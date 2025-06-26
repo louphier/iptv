@@ -264,13 +264,13 @@ http://192.168.1.10:35455/itv/5000000002000029972.m3u8?cdn=bestzb
 http://192.168.1.10:35455/itv/5000000011000031207.m3u8?cdn=bestzb
 
 #EXTINF:-1 tvg-id="238" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+https://migu.188766.xyz/?migutoken=1e11120931823617ea9ae0f8d279b168&id=fhzw&pp=1
 
 #EXTINF:-1 tvg-id="239" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+https://migu.188766.xyz/?migutoken=ce3db31451218e7530f410a289c7955d&id=fhzx&pp=1
 
 #EXTINF:-1 tvg-id="240" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+https://migu.188766.xyz/?migutoken=a27eb426fe253898a3eb0e73b4d167bb&id=fhhk&pp=1
 
 #EXTINF:-1 group-title="电影剧集",1905国内电影
 http://192.168.1.10:5678/19052.php?id=1905a
