@@ -63,7 +63,7 @@ http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001451/index.m3u8?
 http://192.168.1.10:35455/gaoma/cctv8k_36m.m3u8
 
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8.png" group-title="中央电视",重温经典
-https://migu.188766.xyz/?migutoken=fec87152174b42e641eded9cf1dc5307&id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8&pp=1
+https://migu.188766.xyz/?migutoken=001d027c446f85e4a80fe8164f8b4afe&id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8&pp=1
 
 #EXTINF:-1 tvg-id="18" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="中央电视",CGTN
 http://192.168.1.10:35455/gaoma/cgtnen.m3u8
@@ -264,13 +264,13 @@ http://192.168.1.10:35455/itv/5000000002000029972.m3u8?cdn=bestzb
 http://192.168.1.10:35455/itv/5000000011000031207.m3u8?cdn=bestzb
 
 #EXTINF:-1 tvg-id="238" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
-https://migu.188766.xyz/?migutoken=1e11120931823617ea9ae0f8d279b168&id=fhzw&pp=1
+https://migu.188766.xyz/?migutoken=9a982b9d89ed74bf11150f764fd509a1&id=fhzw&pp=1
 
 #EXTINF:-1 tvg-id="239" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
-https://migu.188766.xyz/?migutoken=ce3db31451218e7530f410a289c7955d&id=fhzx&pp=1
+https://migu.188766.xyz/?migutoken=20387372ff1ec57058bb55616a548f54&id=fhzx&pp=1
 
 #EXTINF:-1 tvg-id="240" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
-https://migu.188766.xyz/?migutoken=a27eb426fe253898a3eb0e73b4d167bb&id=fhhk&pp=1
+https://migu.188766.xyz/?migutoken=884dfc0a4fa5a016213e0710c1b06e8a&id=fhhk&pp=1
 
 #EXTINF:-1 group-title="电影剧集",1905国内电影
 http://192.168.1.10:5678/19052.php?id=1905a
