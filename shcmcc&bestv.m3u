@@ -63,7 +63,7 @@ http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001451/index.m3u8?
 http://192.168.1.10:35455/gaoma/cctv8k_36m.m3u8
 
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8.png" group-title="中央电视",重温经典
-https://migu.188766.xyz/?migutoken=001d027c446f85e4a80fe8164f8b4afe&id=%E9%87%8D
+https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 
 #EXTINF:-1 tvg-id="18" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="中央电视",CGTN
 http://192.168.1.10:35455/gaoma/cgtnen.m3u8
@@ -667,4 +667,5 @@ http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000032106/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕",咪咕直播-2-4K
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
+
 
