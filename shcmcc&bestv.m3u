@@ -288,13 +288,13 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236208/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236157/index.m3u8
 
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CHC影迷电影.png" group-title="电影剧集",CHC影迷电影
-http://192.168.1.10:35455/mgtv/952383261.m3u8
+https://tv-1.iill.top/migu/chcym
 
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="电影剧集",CHC动作电影
-http://192.168.1.10:35455/mgtv/644368714.m3u8
+https://tv-1.iill.top/migu/chcdz
 
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="电影剧集",CHC家庭影院
-http://192.168.1.10:35455/mgtv/644368373.m3u8
+https://tv-1.iill.top/migu/chcjt
 
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K"  tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="电影剧集",爱上4K
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
@@ -667,6 +667,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000032106/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕",咪咕直播-2-4K
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
+
 
 
 
