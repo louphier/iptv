@@ -235,7 +235,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226080/1.m3u8
 
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="科教记录",金鹰纪实
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001230/index.m3u8
-#EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="科教记录",茶友频道
+#EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="科教记录",茶
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001234/index.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="科教记录",快乐垂钓
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001235/index.m3u8
@@ -308,7 +308,7 @@ http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001420/index.m3u8
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001440/index.m3u8
 #EXTINF:-1 tvg-name="好享购物" tvg-logo="https://live.fanmingming.com/tv/好享购物.png" group-title="购物频道",好享购物
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001132/index.m3u8
-#EXTINF:-1 tvg-name="聚鲨精选" tvg-logo="https://live.fanmingming.com/tv/聚鲨精选.png" group-title="购物频道",聚鲨精选
+#EXTINF:-1 tvg-name="聚鲨精选" tvg-logo="https://live.fanmingming.com/tv/聚鲨环球精选.png" group-title="购物频道",聚鲨精选
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001138/index.m3u8
 #EXTINF:-1 tvg-name="家家购物" tvg-logo="https://live.fanmingming.com/tv/家家购物.png" group-title="购物频道",家家购物
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001163/index.m3u8
