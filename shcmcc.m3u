@@ -181,13 +181,14 @@ http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001470/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上海新闻综合.png" group-title="上海频道",上海新闻综合
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="上海频道",上海新闻综合
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001014/index.m3u8
 
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="上海频道",上海都市
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001015/index.m3u8
 
 #EXTINF:-1 tvg-name="上海教育" tvg-logo="https://live.fanmingming.com/tv/上海教育.png" group-title="上海频道",上海教育
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001268/index.m3u8
 
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="上海频道",五星体育
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001018/index.m3u8
@@ -196,26 +197,25 @@ http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001018/index.m3u8
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001016/index.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="上海频道",欢笑剧场
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001193/index.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/欢笑剧场4K.png" group-title="上海频道",欢笑剧场-4K
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场4K.png" group-title="上海频道",欢笑剧场-4K
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001490/index.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="上海频道",都市剧场
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001203/index.m3u8
 
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png" group-title="上海频道",第一财经
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="上海频道",第一财经
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001017/index.m3u8
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="上海频道",东方财经
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001318/index.m3u8
 
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="上海频道",生活时尚
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001199/index.m3u8
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://live.fanmingming.com/tv/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="上海频道",乐游频道
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001200/index.m3u8
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="上海频道",法治天地
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001195/index.m3u8
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="上海频道",纪实人文
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001019/index.m3u8
 
-http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001268/index.m3u8
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="上海频道",金色学堂
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001194/index.m3u8
 
@@ -235,7 +235,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226080/1.m3u8
 
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="科教记录",金鹰纪实
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001230/index.m3u8
-#EXTINF:-1 tvg-name="茶友频道" tvg-logo="https://live.fanmingming.com/tv/茶友频道.png" group-title="科教记录",茶友频道
+#EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="科教记录",茶友频道
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001234/index.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="科教记录",快乐垂钓
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001235/index.m3u8
@@ -298,9 +298,9 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226102/1.m3u8
 #EXTINF:-1 tvg-name="百视通10" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="Bestv",百视通10
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226123/1.m3u8
 
-#EXTINF:-1 tvg-name="东方购物1" tvg-logo="https://live.fanmingming.com/tv/东方购物1.png" group-title="购物频道",东方购物1
+#EXTINF:-1 tvg-name="东方购物1" tvg-logo="https://live.fanmingming.com/tv/东方购物.png" group-title="购物频道",东方购物1
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001040/index.m3u8
-#EXTINF:-1 tvg-name="东方购物2" tvg-logo="https://live.fanmingming.com/tv/东方购物2.png" group-title="购物频道",东方购物2
+#EXTINF:-1 tvg-name="东方购物2" tvg-logo="https://live.fanmingming.com/tv/东方购物.png" group-title="购物频道",东方购物2
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001039/index.m3u8
 #EXTINF:-1 tvg-name="央广购物" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="购物频道",央广购物
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001420/index.m3u8
