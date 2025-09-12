@@ -1,64 +1,64 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="中央电视",CCTV1综合
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001022/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001022/index.m3u8?
 
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="中央电视",CCTV2财经
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001220/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001220/index.m3u8?
 
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="中央电视",CCTV3综艺
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001186/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001186/index.m3u8?
 
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="中央电视",CCTV4中文国际
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001221/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001221/index.m3u8?
 
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="中央电视",CCTV5体育
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001187/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001187/index.m3u8?
 
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="中央电视",CCTV5+体育赛事
 http://[2409:8087:1a15:10d1::1f]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="中央电视",CCTV6电影
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001188/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001188/index.m3u8?
 
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="中央电视",CCTV7国防军事
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001236/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001236/index.m3u8?
 
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="中央电视",CCTV8电视剧
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001189/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001189/index.m3u8?
 
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="中央电视",CCTV9记录
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001237/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001237/index.m3u8?
 
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="中央电视",CCTV10科教
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001238/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001238/index.m3u8?
 
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="中央电视",CCTV11戏剧
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001309/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001309/index.m3u8?
 
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="中央电视",CCTV12社会与法
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001239/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001239/index.m3u8?
 
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="中央电视",CCTV13新闻
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001328/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001328/index.m3u8?
 
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="中央电视",CCTV14少儿
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001240/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001240/index.m3u8?
 
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="中央电视",CCTV15音乐
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001338/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001338/index.m3u8?
 
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="中央电视",CCTV16奥林匹克
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001248/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001248/index.m3u8?
 
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="中央电视",CCTV16-UHD
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001258/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001258/index.m3u8?
 
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="中央电视",CCTV17农村农业
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001241/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001241/index.m3u8?
 
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="中央电视",CCTV4K超高清
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001451/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001451/index.m3u8?
 
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8K.png" group-title="中央电视",CCTV8K
 https://mursor.ottiptv.cc/mcp/cctv8k.m3u8
@@ -67,127 +67,127 @@ https://mursor.ottiptv.cc/mcp/cctv8k.m3u8
 https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV1.png" group-title="中央电视",CETV1
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001020/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001020/index.m3u8?
 
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV2.png" group-title="中央电视",CETV2
 https://tv-1.iill.top/migu/cetv2
 
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV4.png" group-title="中央电视",CETV4
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001348/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001348/index.m3u8?
 
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="中央电视",CGTN
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001058/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001058/index.m3u8?
 
 #EXTINF:-1 tvg-name="CGTN记录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN记录.png" group-title="中央电视",CGTN记录
 https://mursor.ottiptv.cc/migu/609006476.m3u8?migutoken=958ce81114aa6d780c30afd84370ac2d07aee6ec17cf3730ffe454744692d85113e19de04127e93306f75e62d86412297f1775df7bca8ced368276efb47fe50e80938912a74d92ab1dab90d3ee
 
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="卫视频道",东方卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001013/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001013/index.m3u8?
 
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001033/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001033/index.m3u8?
 
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001023/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001023/index.m3u8?
 
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001026/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001026/index.m3u8?
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="卫视频道",北京卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001029/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001029/index.m3u8?
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视4K.png" group-title="卫视频道",北京卫视-4K
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001500/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001500/index.m3u8?
 
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001037/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001037/index.m3u8?
 
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="卫视频道",广东卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001032/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001032/index.m3u8?
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视4K.png" group-title="卫视频道",广东卫视-4K
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001550/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001550/index.m3u8?
 
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001030/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001030/index.m3u8?
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视4K.png" group-title="卫视频道",深圳卫视-4K
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001560/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001560/index.m3u8?
 
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001035/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001035/index.m3u8?
 
 #EXTINF:-1 tvg-name="旅游卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海南卫视.png" group-title="卫视频道",海南卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001183/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001183/index.m3u8?
 
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东卫视.png" group-title="卫视频道",山东卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001028/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001028/index.m3u8?
 
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天津卫视.png" group-title="卫视频道",天津卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001036/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001036/index.m3u8?
 
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001129/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001129/index.m3u8?
 
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png" group-title="卫视频道",东南卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001201/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001201/index.m3u8?
 
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001298/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001298/index.m3u8?
 
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png" group-title="卫视频道",广西卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001224/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001224/index.m3u8?
 
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001184/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001184/index.m3u8?
 
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河北卫视.png" group-title="卫视频道",河北卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001229/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001229/index.m3u8?
 
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001031/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001031/index.m3u8?
 
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南卫视.png" group-title="卫视频道",河南卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001222/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001222/index.m3u8
 
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001027/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001027/index.m3u8?
 
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png" group-title="卫视频道",江西卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001034/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001034/index.m3u8?
 
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001225/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001225/index.m3u8?
 
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001530/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001530/index.m3u8?
 
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/宁夏卫视.png" group-title="卫视频道",宁夏卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001074/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001074/index.m3u8?
 
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山西卫视.png" group-title="卫视频道",山西卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001070/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001070/index.m3u8?
 
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西卫视.png" group-title="卫视频道",陕西卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001067/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001067/index.m3u8?
 
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="卫视频道",四川卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001130/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001130/index.m3u8?
 
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png" group-title="卫视频道",云南卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001223/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001223/index.m3u8?
 
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001065/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001065/index.m3u8?
 
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青海卫视.png" group-title="卫视频道",青海卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001450/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001450/index.m3u8?
 
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/兵团卫视.png" group-title="卫视频道",兵团卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001066/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001066/index.m3u8?
 
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/西藏卫视.png" group-title="卫视频道",西藏卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001072/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001072/index.m3u8?
 
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三沙卫视.png" group-title="卫视频道",三沙卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001185/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001185/index.m3u8?
 
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海峡卫视.png" group-title="卫视频道",海峡卫视
 https://tv-1.iill.top/migu/hxws
@@ -199,48 +199,48 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226008/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225773/1.m3u8
 
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/延边卫视.png" group-title="卫视频道",延边卫视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001470/index.m3u8?
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001470/index.m3u8?
 
 
 
 
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上视新闻.png" group-title="上海频道",上海新闻综合
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001014/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001014/index.m3u8
 
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海都市.png" group-title="上海频道",上海都市
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001015/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001015/index.m3u8
 
 #EXTINF:-1 tvg-name="上海教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海教育.png" group-title="上海频道",上海教育
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001268/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001268/index.m3u8
 
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/五星体育.png" group-title="上海频道",五星体育
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001018/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001018/index.m3u8
 
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方影视.png" group-title="上海频道",东方影视
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001016/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001016/index.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/欢笑剧场.png" group-title="上海频道",欢笑剧场
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001193/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001193/index.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/欢笑剧场4K.png" group-title="上海频道",欢笑剧场-4K
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001490/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001490/index.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/都市剧场.png" group-title="上海频道",都市剧场
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001203/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001203/index.m3u8
 
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海第一财经.png" group-title="上海频道",第一财经
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001017/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001017/index.m3u8
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方财经.png" group-title="上海频道",东方财经
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001318/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001318/index.m3u8
 
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/生活时尚.png" group-title="上海频道",生活时尚
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001199/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001199/index.m3u8
 #EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/乐游.png" group-title="上海频道",乐游频道
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001200/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001200/index.m3u8
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/法治天地.png" group-title="上海频道",法治天地
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001195/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001195/index.m3u8
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纪实人文.png" group-title="上海频道",纪实人文
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001019/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001019/index.m3u8
 
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金色学堂.png" group-title="上海频道",金色学堂
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001194/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001194/index.m3u8
 
 
 
@@ -257,11 +257,11 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225687/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226080/1.m3u8
 
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰纪实.png" group-title="科教记录",金鹰纪实
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001230/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001230/index.m3u8
 #EXTINF:-1 tvg-name="茶" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/茶.png" group-title="科教记录",茶
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001234/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001234/index.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/快乐垂钓.png" group-title="科教记录",快乐垂钓
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001235/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001235/index.m3u8
 
 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视中文台.png" group-title="港澳台",凤凰中文
@@ -274,32 +274,32 @@ https://tv-1.iill.top/phenix/fhxg
 
 
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卡酷少儿.png" group-title="少儿频道",卡酷少儿
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001245/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001245/index.m3u8
 
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰卡通.png" group-title="少儿频道",金鹰卡通
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001460/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001460/index.m3u8
 
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/嘉佳卡通.png" group-title="少儿频道",嘉佳卡通
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001227/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001227/index.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/动漫秀场.png" group-title="少儿频道",动漫秀场
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001196/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001196/index.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png" group-title="少儿频道",哈哈炫动
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001232/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001232/index.m3u8
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/游戏风云.png" group-title="少儿频道",游戏风云
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001192/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001192/index.m3u8
 
 #EXTINF:-1 tvg-name="Bestv赛事1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/bestv.png" group-title="Bestv",Bestv赛事1
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001151/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001151/index.m3u8
 #EXTINF:-1 tvg-name="Bestv赛事2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/bestv.png" group-title="Bestv",Bestv赛事2
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001359/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001359/index.m3u8
 #EXTINF:-1 tvg-name="Bestv赛事3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/bestv.png" group-title="Bestv",Bestv赛事3
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001388/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001388/index.m3u8
 #EXTINF:-1 tvg-name="Bestv赛事4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/bestv.png" group-title="Bestv",Bestv赛事4
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001149/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001149/index.m3u8
 #EXTINF:-1 tvg-name="Bestv赛事5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/bestv.png" group-title="Bestv",Bestv赛事5
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001153/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001153/index.m3u8
 #EXTINF:-1 tvg-name="Bestv赛事6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/bestv.png" group-title="Bestv",Bestv赛事6
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001154/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001154/index.m3u8
 #EXTINF:-1 tvg-name="百视通1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/bestv.png" group-title="Bestv",百视通1
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225663/1.m3u8
 #EXTINF:-1 tvg-name="百视通2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/bestv.png" group-title="Bestv",百视通2
@@ -322,31 +322,31 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226102/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226123/1.m3u8
 
 #EXTINF:-1 tvg-name="东方购物1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方购物.png" group-title="购物频道",东方购物1
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001040/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001040/index.m3u8
 #EXTINF:-1 tvg-name="东方购物2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方购物.png" group-title="购物频道",东方购物2
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001039/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001039/index.m3u8
 #EXTINF:-1 tvg-name="央广购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/央广购物.png" group-title="购物频道",央广购物
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001420/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001420/index.m3u8
 #EXTINF:-1 tvg-name="优购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/优购物.png" group-title="购物频道",优购物
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001440/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001440/index.m3u8
 #EXTINF:-1 tvg-name="好享购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/好享购物.png" group-title="购物频道",好享购物
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001132/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001132/index.m3u8
 #EXTINF:-1 tvg-name="聚鲨精选" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/聚鲨环球精选.png" group-title="购物频道",聚鲨精选
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001138/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001138/index.m3u8
 #EXTINF:-1 tvg-name="家家购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/家家购物.png" group-title="购物频道",家家购物
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001163/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001163/index.m3u8
 #EXTINF:-1 tvg-name="家有购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/家有购物.png" group-title="购物频道",家有购物
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001244/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001244/index.m3u8
 #EXTINF:-1 tvg-name="快乐购" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/快乐购.png" group-title="购物频道",快乐购
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001368/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001368/index.m3u8
 
 
 #EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/家庭理财.png" group-title="其他频道",家庭理财
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001278/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001278/index.m3u8
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/财富天下.png" group-title="其他频道",财富天下
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001219/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001219/index.m3u8
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国天气.png" group-title="其他频道",中国天气
-http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001102/index.m3u8
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001102/index.m3u8
 
 #EXTINF:-1 tvg-name="咪咕视频1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育IPV6",咪咕视频1
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225637/1.m3u8
@@ -414,7 +414,3 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225688/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226125/1.m3u8
 #EXTINF:-1 tvg-name="咪咕视频33" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育IPV6",咪咕视频33
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225694/1.m3u8
-
-
-
-
