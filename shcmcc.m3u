@@ -16,7 +16,7 @@ http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001221/index.m3u8?
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001187/index.m3u8?
 
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="中央电视",CCTV5+体育赛事
-http://[2409:8087:1a15:10d1::1f]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+https://mgtv.ottiptv.cc/mg/641886773.m3u8?userid=614485925&sign=265189015e375b8fa5d92fc12cb262a42d7043da136266de4a61b17fcb3d57f10a7c04f3fdc345b9c60207242c55540fc035a510ea126045a60c28f64f8bb80cdbd1d9a3bd99cefd2e01bde8f2427485&auth_token=73781f49fa38b3bd054755f235d93997
 
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="中央电视",CCTV6电影
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001188/index.m3u8?
@@ -414,3 +414,4 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225688/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226125/1.m3u8
 #EXTINF:-1 tvg-name="咪咕视频33" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育IPV6",咪咕视频33
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225694/1.m3u8
+
