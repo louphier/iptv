@@ -271,6 +271,29 @@ https://tv.iill.top/phenix/fhzx
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FENGHUANGXIANGGANG.png" group-title="港澳台",凤凰香港
 https://tv.iill.top/phenix/fhxg
 
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/女性时尚.png" group-title="央视风云",女性时尚
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001571/index.m3u8?
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/央视台球.png" group-title="央视风云",央视台球
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001600/index.m3u8?
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/兵器科技.png" group-title="央视风云",兵器科技
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001610/index.m3u8?
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/世界地理.png" group-title="央视风云",世界地理
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001620/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一剧场.png" group-title="央视风云",CCTV第一剧场
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001621/index.m3u8?
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/高尔夫网球.png" group-title="央视风云",高尔夫网球
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001630/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/怀旧剧场.png" group-title="央视风云",CCTV怀旧剧场
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001640/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云剧场.png" group-title="央视风云",CCTV风云剧场
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001650/index.m3u8?
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云音乐.png" group-title="央视风云",风云音乐
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001660/index.m3u8?
+#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/央视文化精品.png" group-title="央视风云",央视文化精品
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001670/index.m3u8?
+#EXTINF:-1 tvg-name="早期教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV早期教育.png" group-title="央视风云",早期教育
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001680/index.m3u8?
+
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卡酷少儿.png" group-title="少儿频道",卡酷少儿
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001245/index.m3u8
 
@@ -412,6 +435,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225688/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226125/1.m3u8
 #EXTINF:-1 tvg-name="咪咕视频33" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育IPV6",咪咕视频33
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225694/1.m3u8
+
 
 
 
