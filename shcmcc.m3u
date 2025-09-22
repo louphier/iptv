@@ -245,11 +245,11 @@ http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001194/index.m3u8
 
 
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC影迷电影.png" group-title="电影剧集",CHC影迷电影
-https://tv.iill.top/migu/chcym
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001581/index.m3u8?
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="电影剧集",CHC动作电影
-https://tv.iill.top/migu/chcdz
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001580/index.m3u8?
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭影院.png" group-title="电影剧集",CHC家庭影院
-https://tv.iill.top/migu/chcjt
+http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001570/index.m3u8?
 
 #EXTINF:-1 tvg-name="至臻世界" group-title="电影剧集",至臻世界
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225687/1.m3u8
@@ -412,6 +412,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225688/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226125/1.m3u8
 #EXTINF:-1 tvg-name="咪咕视频33" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育IPV6",咪咕视频33
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225694/1.m3u8
+
 
 
 
