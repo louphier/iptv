@@ -16,7 +16,7 @@ http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001221/index.m3u8?
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001187/index.m3u8?
 
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="中央电视",CCTV5+体育赛事
-https://migu.188766.xyz/?migutoken=ba39d4dc6e98bb7fbf17662cd94bbb2c&id=CCTV5p&type=yy
+https://tv.iill.top/migu/cctv5+
 
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="中央电视",CCTV6电影
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001188/index.m3u8?
@@ -447,6 +447,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225688/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226125/1.m3u8
 #EXTINF:-1 tvg-name="咪咕视频33" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育IPV6",咪咕视频33
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225694/1.m3u8
+
 
 
 
