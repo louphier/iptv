@@ -380,11 +380,11 @@ http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001278/index.m3u8
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001219/index.m3u8
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国天气.png" group-title="其他频道",中国天气
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001102/index.m3u8
-#EXTINF:-1 tvg-name="晴彩竞技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/晴彩竞技.png" group-title="其他频道",晴彩竞技
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E7%9D%9B%E5%BD%A9%E7%AB%9E%E6%8A%80.png" group-title="其他频道",睛彩竞技
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226116/1.m3u8
-#EXTINF:-1 tvg-name="晴彩篮球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/晴彩篮球.png" group-title="其他频道",晴彩篮球
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E7%9D%9B%E5%BD%A9%E7%AF%AE%E7%90%83.png" group-title="其他频道",睛彩篮球
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226118/1.m3u8
-#EXTINF:-1 tvg-name="晴彩广场舞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/晴彩广场舞.png" group-title="其他频道",晴彩广场舞
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E7%9D%9B%E5%BD%A9%E5%B9%BF%E5%9C%BA%E8%88%9E.png" group-title="其他频道",睛彩广场舞
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226139/1.m3u8
 
 #EXTINF:-1 tvg-name="咪咕视频1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育IPV6",咪咕视频1
@@ -453,6 +453,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225688/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226125/1.m3u8
 #EXTINF:-1 tvg-name="咪咕视频33" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育IPV6",咪咕视频33
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225694/1.m3u8
+
 
 
 
