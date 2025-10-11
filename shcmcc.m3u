@@ -67,16 +67,16 @@ https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001020/index.m3u8?
 
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV2.png" group-title="中央电视",CETV2
-https://tv.iill.top/migu/cetv2
+http://192.168.1.15:5678/migu.php?id=cetv2
 
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV4.png" group-title="中央电视",CETV4
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001348/index.m3u8?
 
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="中央电视",CGTN
-http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001058/index.m3u8?
+http://192.168.1.15:5678/migu.php?id=cgtn
 
 #EXTINF:-1 tvg-name="CGTN记录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN记录.png" group-title="中央电视",CGTN记录
-https://mursor.ottiptv.cc/migu/609006476.m3u8?migutoken=958ce81114aa6d780c30afd84370ac2d07aee6ec17cf3730ffe454744692d85113e19de04127e93306f75e62d86412297f1775df7bca8ced368276efb47fe50e80938912a74d92ab1dab90d3ee
+http://192.168.1.15:5678/migu.php?id=cgtnjl
 
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="超高清频道",东方卫视4K
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001641/index.m3u8?
@@ -458,5 +458,6 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225688/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226125/1.m3u8
 #EXTINF:-1 tvg-name="咪咕视频33" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育IPV6",咪咕视频33
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225694/1.m3u8
+
 
 
