@@ -289,6 +289,8 @@ https://tv.iill.top/phenix/fhzw
 https://tv.iill.top/phenix/fhzx
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FENGHUANGXIANGGANG.png" group-title="港澳台",凤凰香港
 https://tv.iill.top/phenix/fhxg
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FENGHUANGZIXUN.png" group-title="港澳台",凤凰资讯
+http://192.168.1.15:5678/ifeng.php?id=1016529
 
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/女性时尚.png" group-title="央视风云",女性时尚
 http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001571/index.m3u8?
